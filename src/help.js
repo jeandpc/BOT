@@ -1,35 +1,69 @@
 const help = (prefix) => {
 	return `
 
-⌜ *ѕнαηвσт ву ѕнαη∂υу* ⌟  
+⌜ *☄️✨*BOTCITO*✨☄️* ⌟  
+
+▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄
+_  _█████████           
+_  _█▄█████▄█      
+__   █▼▼▼▼▼█ 
+   _██RATONA██▌ 
+_   _█▲▲▲▲▲█ 
+__  █████████ 
+____██_____██
+▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄
+😎😎chesi : Gente habla calaveron como esta causita
+💀 : Habla Tyson no seas muy faltoso no más
+😎😎 chesi : Suelta no más  pe causa
+💀Coco : Ya toma vas a llevar 
+😎😎 chesi : La misma no más chapa  El cuerpo pide pe causa y uno tiene que obedecerle pes si o no shh 
+Ohh Y esas tabas causa
+💀Coco : De tu pata pe
+😎😎chesi: De quién de Pedro FarFan 
+💀COCO : Claro 
+😎😎chesi: ta mare este huevon
+🧑🏽Pata de Coco : Ya fue tu pata
+😎😎TYSON : Shhh Oe y a cuanto te las quemo
+💀COCO : Por nada  un cambiaso pero ya sabes primo acá no hay devolución ah 
+😎😎chesi : Oe no te hagas el payaso conmigo pe chibolo canta cuanto quieres es mi pata pe causa  yo la quiero recuperar habla
+🧑🏽Pata de Coco : Si quieres te la vendemos 
+😎😎chesi : Oe que
+🧑🏽Pata de Coco : Que crees que las cosas son gratis negocio son negocios pe chocherita treinta luquitas dame no más por las tabitas
+😎😎chesi : Que cosa
+🧑🏽Pata de Coco : Shhh también si quieres compadre jee cree que le voy a dar gratis las tabas
+😎😎chesi : Oe quién este imbecil ah  Oe tu me conoces a mi causa tu sabes quien soy  crees que me vas a agarrar de payaso que te pasa
+💀COCO : Tranquilo pe Tyson tu no sabes con quien te estas metiendo
+😎😎chesi : Oe arranca arranca arranca chibolo que te pasa
+🧑🏽Pata de Coco : Oe yaa tranquilo compadre  que tu no me conoces arranca no más arranca no más  loo
+No te conozco pe causa
+😎😎chesi :Tu tampoco me conoces tabien
+🧑🏽Pata de Coco : Ya ya ya
+😎😎chesi : El tampoco me conoce ahorita te coso y no pasa nada sonsonaso
+🧑🏽Pata de Coco : Ya ganaste ya ganaste
+💀COCO : Tranquilo pe Tyson
+😎😎chesi : Oh Suelta oh Sueltame causa   que te pasa Suelta  ah que tienes que me agarras Coco ahh
+💀COCO : Tranquilo no más 
+😎😎chesi : Que tu eres el padrino
+💀COCO : Ya pe ya fue
+😎😎chesi : Shhh Par de monsesasos no más.
+
 
 ◉ *INFORMACION*
-   ○ Comando: ⌜ ${prefix} ⌟
-   ○ Creador: ѕнαη∂υу™ 
-   ○ Como instalar el bot: https://www.youtube.com/watch?v=2LQSzEbpJ-M
-   ○ Instagram: https://www.instagram.com/thepavos
-
-
+   ○ Comando: ⌜ ${prefix} ⌟ 
 ◉ *NUEVOS COMANDOS*
 ○ ${prefix}antimenu
 Su nombre lo dice todo (antilink)
 ○ ${prefix}otak
-Monas chinas
+lolis 
 ○ ${prefix}shantera
 Interactua con el bot
 
 ◉ *NUEVOS MENUS*
 ○ ${prefix}juegos
-Divierte con tus amigos :)
-○ ${prefix}desmenu
-Descargar musica y videos de YT
-○ ${prefix}version
-Conoce la versión de tu bot
-○ ${prefix}welmenu
-Comandos de bienvedia a grupos
+juegos de jodas
 
 ◉ *PARA USAR EL BOT*
-Registrate con el comando ${prefix}daftar y tu nombre
+Registrate con el comando ${prefix}terna y tu nombre
 
 ◉ *RESUELVE TUS DUDAS*
   ║
