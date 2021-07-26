@@ -1311,33 +1311,64 @@ break
 						fs.unlinkSync(rano)
 					})
 					break
-                default:
-                if (budy.includes(`Todo bien`)) {
+                 {
                   reply(`Si amigo todo bien, vite`)
                   }
-
-		if (budy.includes(`Buenos dias`)) {
-                  reply(`Buenos Dias trolos de mierda`)
-                  }
-
-		if (budy.includes(`Bot gay`)) {
-                  reply(`Miren a este boludito`)
-                  }
-
-		if (budy.includes(`Gracias`)) {
-                  reply(`De nada padre`)
-                  }
-
-		if (budy.includes(`Bien gracias y tu?`)) {
-                  reply(`Todo bien yazmi te quiero mucho pero deja de hacer spam la puta madre con cariño shanduy :)`)
-                  }
 					
-		if (budy.includes(`opa`)) {
-                  reply(`opaaaaa`)
+                  if (budy.includes(`Chabelo`)) {
+                  reply(`¿Quien es @⁨Chabelo 🐦☭⁩ ⁩   este sujeto es un apestoso y andrajoso , piojoso todo empezaria en su pueblo huancayo, donde intentó buscar flacas pero encontró pingas, pero como es misio no tenía para comer ni para comprar pingas de sus negros ,  nadie le hablaba porque su cabello le apesta al muy hijodeperra su cabello huele a buzón de desagüe. Así el apestoso un día que estuvo a punto de tomar veneno para rata pero tomo el veneno y su no hizo efecto porque su cabello es mas venenoso q cualquier veneno y las mujeres de su familia todas son unas golosas, y el se hizo crecer el cabello tan solo para comer pingas negras pero su cara es de un indio q cuando se pone la tanga de su mami no le da al muy maricon ,pero su mami ella  cacha con los alcohólicos de las esquinas pero ni ellos quieren q sea su amigo de su hijo  porque apesta a mierda`)
                   }
                  
-		if (budy.includes(`Fua`)) {
-                  reply(`el diegote pa`)
+		 if (budy.includes(`Miembro`)) {
+                  reply(`Mira mi estimado  , ya se que te preocupas por el bienestar del grupo, pero esas actitudes muestra que eres un ser con un intelecto por debajo del común general, por lo cual me veo en la penosa necesidad de darte un avance especializado en el analisis de creación, para que así puedas sobresalir en el campo de la materia de las cuentas de facebook fake, o más conocidas como "dibujitos", en pocas palabras, me llegas al pincho, deja de estar pidiendo el pack de Pierina y el de Sheyla... Añado tambien que dejen de mandarme el pack del "Tío Vilchez" y Fatima Segovia "La Chuecona", como te recalqué por privado, no tengo el video porno de Pierina, ni el de Sheyla, así que es en vano que me mandes el de Vilches, ya que no se podrá hacer el intercambio de estos videos íntimos. Bueno me despido, toda esta wbada me llega al pincho enserio.
+
+
+
+
+     Atte: ༒🇦🇱⃢⃟⃢⍣໓໐๓iຖi໐  ⃢⃟⃢⍣⚔️༒
+     Atte: Terna DPC ⃢⃟⃢⍣⚔️༒
+ 
+            #TuKcheroBB `)
+                  }
+                  
+		 if (budy.includes(`Jhon Mejia`)) {
+                  reply(`Quién es @Jhon Mejía, este individuo es reconocido actualmente por ser un vendedor ambulante de los cultivos que tiene en su chacra, también es reconocido por ser el primer ingeniero agroindustrial en Puno, pero les contaré la triste historia detrás de este cabeza de pinga, Jhon Mejía de niño creció en una chacra y sufrió explotación laboral, tenía que llevar a sus auquénidos hasta la punta del cerro para que pasteen. Luego, tenía que sacar la maleza de su huerto y en la noche salía a vender choclo con queso para mantenerse. Ya que había sido abandonado por sus padres cuando lo vieron y se tuvo que quedar con su tío. Cansado de la explotación y las violaciones nocturnas. Jhon Mejía partió hacia Lima donde entraría a una universidad y se graduaría con su tesis "Papai quiero vender productos agrícolas" donde mostraba ingeniosas maneras de cultivar los diversas semillas y nuevas técnicas de riego. Una vez terminó empezó a trabajar en diferentes puestos como: Puesto de emoliente, vendedor de chifles y yuquitas fritas, avena, maca, etc. Pero se aburrió y entró a la Beba Army donde mandaba audios quejándose de los aborígenes pertenecientes a este grupo y diciéndoles "recios", a veces mandaba audios acerca de que todos eran sus sobrinos, porque seguía teniendo el trauma de haber sido violado de niño. `)
+                  }
+			
+					
+		if (budy.includes(`Pedro Soto`)) {
+                  reply(`Terrible? 
+ 
+TERRIBLE ES TENER UN VIEJO BORRACHO , RETRASADO Y UNA VIEJA PERRA , SIN CEREBRO , FLOJA Y GORDA  SIN FUTURO , SI SABES DE QUIEN HABLO NO TE HAGAS LA IDIOTA , SOLO TE DIRE QUE PARA LA PROXIMA TEN HIGIENE AL VENDER TOFIS Y TURRONCITOS AREQUIPEÑOS PORQ ME VINIERON CON MANCHAS DE CACA SII TU NO TE HAGAS LA VICTIMA
+`)
+			
+                  }
+
+		if (budy.includes(`Impostor`)) {
+                  reply(`@⁨𝑳𝒊𝒕𝒕𝒍𝒆 𝑯𝒂𝒓𝒖🌈⁩  buenas tardes, solo entre a tu grupo a decirte que pues dejes de vincularme con el impostor, mi novio se enteró que me paran jodiendo con el de que somos novios etc, yo no tengo nada que ver con el, ya no hablamos ni nada creo que el tiene su novia y no quisiera que pues tenga problemas, solo entre a tu grupo a decirte eso y espero que me entiendas, yo no quiero tener problemas con mi pareja pq en si yo si lo quiero :') y bueno gracias eso fue todo :')`)
+                  }
+
+		if (budy.includes(`Mongral`)) {
+                  reply(`Mongral un mocoso correlon q
+ masha lo dejo 
+Karol lo dejo 
+Bellota ni caso le dió
+Bb lean menos
+Café ni q hablar
+Un día lo invitaron a  51963357602 para una pelea pero el muy cobarde jamás fue pq tenía miedo a q le rompa la cara a puñetes 
+Dime ese es tu ídolo?`)
+                  }
+
+		if (budy.includes(`Gary`)) {
+                  reply(`Es un sujeto adrable , se podria decir el informatico del grupo  si necesitan informacion de  binarios , ataques, virtuales no duden en escribirle su pv`)
+                  }
+					
+		if (budy.includes(`Pedro Farfan`)) {
+                  reply(`Su viejo es tombo ... lo que no sabe su viejo es que cria  a un drogodacto mal holiente , que le gusta cantar todo el dia .. aveces esta tan pasadaso que alucina que es Gustavo Cerati, lo ultimo que hizo este sujeto  fue vender sus tabas a chesi por un poco de gramos`)
+                  }
+                 
+		if (budy.includes(`Chesi`)) {
+                  reply(`El ganster del grupo`)
                   }
        if (budy.startsWith(`La toca 7w7`)) {
         const none = fs.readFileSync('./anishan/anime5.mp3');
