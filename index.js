@@ -1311,10 +1311,8 @@ break
 						fs.unlinkSync(rano)
 					})
 					break
-                 {
-                  reply(`Si amigo todo bien, vite`)
-                  }
 					
+                  default:		
                   if (budy.includes(`Chabelo`)) {
                   reply(`¿Quien es @⁨Chabelo 🐦☭⁩ ⁩   este sujeto es un apestoso y andrajoso , piojoso todo empezaria en su pueblo huancayo, donde intentó buscar flacas pero encontró pingas, pero como es misio no tenía para comer ni para comprar pingas de sus negros ,  nadie le hablaba porque su cabello le apesta al muy hijodeperra su cabello huele a buzón de desagüe. Así el apestoso un día que estuvo a punto de tomar veneno para rata pero tomo el veneno y su no hizo efecto porque su cabello es mas venenoso q cualquier veneno y las mujeres de su familia todas son unas golosas, y el se hizo crecer el cabello tan solo para comer pingas negras pero su cara es de un indio q cuando se pone la tanga de su mami no le da al muy maricon ,pero su mami ella  cacha con los alcohólicos de las esquinas pero ni ellos quieren q sea su amigo de su hijo  porque apesta a mierda`)
                   }
