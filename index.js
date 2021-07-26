@@ -323,9 +323,9 @@ async function starts() {
                                         xn: 'Calmao pa 😎\n\n*Estoy descargando tu video 🔄*\n\nAguarde un momento, por favor\n\nву ѕнαη∂υу',
 					mpv: 'Calma ✋🥸🤚\n\n*Estoy descargando tu video 🔄*\n\nAguarde un momento, por favor\n\nву ѕнαη∂υу',
 					insta: 'Calmao 😎\n\n*Estoy descargando tu post 🔄*\n\nAguarde un momento, por favor\n\nву ѕнαη∂υу',
-					musica: 'Calmao pa estoy bucando tu canción 😎\n\n*Recuerda colocar bien el nombre de la cancion o el link del video de youtube❗*\n\n*Si el comando *play no funciona utiliza el comando *play2*\n\nву ѕнαη∂υу',
-					musica2: 'Calmao pa estoy bucando tu canción 😎\n\n*Recuerda colocar bien el nombre de la cancion o el link del video de youtube❗*\n\n*Si el comando *play2 no funciona utiliza el comando *play*\n\nву ѕнαη∂υу',
-					daftarB: `「APESTOSOO」\n\nPA NO APARECES EN MI BASE DE DATOS ✋🥸🤚\n\nPara poder usarme escribe el siguente comando\n\nComando: ${prefix}terna Nombre\nEjemplo: ${prefix}terna mi chero`,
+					musica: 'Ehhhh *PIRAÑA* 😎\n\n*Si el comando *play no funciona utiliza el comando *play2*\n\nву botcito',
+					musica2: 'Ehhhh *PIRAÑA* 😎*\n\n*Si el comando *play2 no funciona utiliza el comando *play*\n\nву botcito',
+					daftarB: `「APESTOSOO」\n\nEh loco no estas en lista  ✋🥸🤚\n\nPara poder ser parte del club digita el \n\nComando: ${prefix}terna Nombre\nEjemplo: ${prefix}terna mi chero`,
 				}
 			}
     			const apakah = ['Si','No']
