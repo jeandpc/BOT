@@ -66,18 +66,18 @@ juegos de jodas
 ◉ *PARA USAR EL BOT*
 Registrate con el comando ${prefix}terna y tu nombre
 
-◉ *iNTEGRANTES ASQUEROSOS*
+◉ *SE BUSCA*
 
-*Gary
-*Pedro Farfan
-*Chabelo
-*Jhon Mejia
-*Pedro Soto
-*Impostor
-*Mongral
-*Gary
-*Pedro Farfan
-*Chesi
+Gary
+Pedro Farfan
+Chabelo
+Jhon Mejia
+Pedro Soto
+Impostor
+Mongral
+Gary
+Pedro Farfan
+Chesi
 
 ◉ *CREAR STICKERS*
   ║
