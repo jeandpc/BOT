@@ -1314,10 +1314,10 @@ break
 					
                   default:		
                   if (budy.includes(`Chabelo`)) {
-                  reply(`¿Quien es @⁨Chabelo 🐦☭⁩ ⁩   este sujeto es un apestoso y andrajoso , piojoso todo empezaria en su pueblo huancayo, donde intentó buscar flacas pero encontró pingas, pero como es misio no tenía para comer ni para comprar pingas de sus negros ,  nadie le hablaba porque su cabello le apesta al muy hijodeperra su cabello huele a buzón de desagüe. Así el apestoso un día que estuvo a punto de tomar veneno para rata pero tomo el veneno y su no hizo efecto porque su cabello es mas venenoso q cualquier veneno y las mujeres de su familia todas son unas golosas, y el se hizo crecer el cabello tan solo para comer pingas negras pero su cara es de un indio q cuando se pone la tanga de su mami no le da al muy maricon ,pero su mami ella  cacha con los alcohólicos de las esquinas pero ni ellos quieren q sea su amigo de su hijo  porque apesta a mierda`)
+                  reply(`ni idea loco`)
                   }
                  
-		 if (budy.includes(`Miembro`)) {
+		 if (budy.includes(`miembro`)) {
                   reply(`Mira mi estimado  , ya se que te preocupas por el bienestar del grupo, pero esas actitudes muestra que eres un ser con un intelecto por debajo del común general, por lo cual me veo en la penosa necesidad de darte un avance especializado en el analisis de creación, para que así puedas sobresalir en el campo de la materia de las cuentas de facebook fake, o más conocidas como "dibujitos", en pocas palabras, me llegas al pincho, deja de estar pidiendo el pack de Pierina y el de Sheyla... Añado tambien que dejen de mandarme el pack del "Tío Vilchez" y Fatima Segovia "La Chuecona", como te recalqué por privado, no tengo el video porno de Pierina, ni el de Sheyla, así que es en vano que me mandes el de Vilches, ya que no se podrá hacer el intercambio de estos videos íntimos. Bueno me despido, toda esta wbada me llega al pincho enserio.
 
 
@@ -1358,15 +1358,15 @@ Dime ese es tu ídolo?`)
                   }
 
 		if (budy.includes(`Gary`)) {
-                  reply(`Es un sujeto adrable , se podria decir el informatico del grupo  si necesitan informacion de  binarios , ataques, virtuales no duden en escribirle su pv`)
+                  reply(`Este sujeto se cree el  informatico de las bebeas tengan mucho cuidado con estar hablandole al pv por que te manda binarios en one es su mano derecha de chabelo`)
                   }
 					
 		if (budy.includes(`Pedro Farfan`)) {
-                  reply(`Su viejo es tombo ... lo que no sabe su viejo es que cria  a un drogodacto mal holiente , que le gusta cantar todo el dia .. aveces esta tan pasadaso que alucina que es Gustavo Cerati, lo ultimo que hizo este sujeto  fue vender sus tabas a chesi por un poco de gramos`)
+                  reply(`Su viejo es tombo ... lo que no sabe su viejo es que es un drogodacto mal holiente , que le gusta cantar todo el dia .. aveces esta tan pasadaso que alucina que es Gustavo Cerati, lo ultimo que hizo este sujeto  fue vender sus tabas a chesi por un poco de gramos`)
                   }
                  
 		if (budy.includes(`Chesi`)) {
-                  reply(`El ganster del grupo`)
+                  reply(`El sonsonaso del grupo se cree ganster pero no mata ni a una cucaracha`)
                   }
        if (budy.startsWith(`La toca 7w7`)) {
         const none = fs.readFileSync('./anishan/anime5.mp3');
