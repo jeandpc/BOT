@@ -1317,6 +1317,32 @@ break
                   reply(`ni idea loco`)
                   }
                  
+		  if (budy.includes(`bot`)) {
+                  reply(`siempre fachero loco`)
+                  }
+                 	
+		  if (budy.includes(`Sebastian`)) {
+                  reply(`tremendo gilaso, estan huevon que esta virtualmente lo hacen kachudo csmre ,estos dibujos son la cagada con cada ocurrencia que hacen cague de richard`)
+                  }
+                 	
+		 if (budy.includes(`Elias`)) {
+                  reply(`marron hijo de puta todo el dia en whatsap causa hablas mas que yo ...ponte a chambear o por ultimo ya ponte a robar que tu cara da pa eso loquito, firme palteas causa,si fuera tu viejo te boto a patadas.. felizmente no soy de cono `)
+                  }
+					
+		if (budy.includes(`Ebrain`)) {
+                  reply(`arrequipeño apestoso este marron si me da asco esta una,llama es mas vegestorio que el marron de chabelo este csmre si lo tengo enfrente lo escupo`)
+                  }
+                if (budy.includes(`dictador`)) {
+                  reply(`un virtual mas del monto , me da pena este dibujito... que sera la vida de este marginal mas adelante,deshonra de su familia`)
+                  }
+	
+		 if (budy.includes(`Terna`)) {
+                  reply(`quien sera ese loquito , no lo saco men`)
+                  }
+					
+	  if (budy.includes(`nfr`)) {
+                  reply(`dibujito `)
+                  }		
 		 if (budy.includes(`miembro`)) {
                   reply(`Mira mi estimado  , ya se que te preocupas por el bienestar del grupo, pero esas actitudes muestra que eres un ser con un intelecto por debajo del común general, por lo cual me veo en la penosa necesidad de darte un avance especializado en el analisis de creación, para que así puedas sobresalir en el campo de la materia de las cuentas de facebook fake, o más conocidas como "dibujitos", en pocas palabras, me llegas al pincho, deja de estar pidiendo el pack de Pierina y el de Sheyla... Añado tambien que dejen de mandarme el pack del "Tío Vilchez" y Fatima Segovia "La Chuecona", como te recalqué por privado, no tengo el video porno de Pierina, ni el de Sheyla, así que es en vano que me mandes el de Vilches, ya que no se podrá hacer el intercambio de estos videos íntimos. Bueno me despido, toda esta wbada me llega al pincho enserio.
 
