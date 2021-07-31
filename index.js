@@ -1332,17 +1332,31 @@ break
 		if (budy.includes(`Ebrain`)) {
                   reply(`arrequipeño apestoso este marron si me da asco esta una,llama es mas vegestorio que el marron de chabelo este csmre si lo tengo enfrente lo escupo`)
                   }
-                if (budy.includes(`dictador`)) {
-                  reply(`un virtual mas del monto , me da pena este dibujito... que sera la vida de este marginal mas adelante,deshonra de su familia`)
+                if (budy.includes(`Nena Shey`)) {
+                  reply(`Esta negrita ya tiene su propia musica, solo  los de la olds school lo entenderan
+		  Se dice de mí
+Se dice que soy fea Que parezco un dinosaurio
+Mi nariz es puntiaguda
+La figura no me ayuda
+Y mi boca es un buzón... `)
                   }
 	
 		 if (budy.includes(`Terna`)) {
-                  reply(`quien sera ese loquito , no lo saco men`)
+                  reply(`mi creador`)
                   }
 					
-	  if (budy.includes(`nfr`)) {
+	  if (budy.includes(`chapultifornio`)) {
+                  reply(`QUIEN*ES CHAPULTIFORNIO? MAS CONOCIDA COMO @⁨ৎ҈̤֟͜͡꙳ ⃘⃤꙰❌EL DUENDE MALDITO💉⁩ mrd.CHATO GRANOSO  , ES UN ENANO CON ACNE PERUANO DE ICA NEGRO QUE CUANDO ENTRO AL GRUPO SE ENAMORO DE UNA VENDEDORA DE PAPAS Y MADRE SOLTERA POR KCHERA " CAFE" ESTE LE PARABA MOLESTANDO, PIROPEANDOLE  , ESE    NEGRO TIENE DEUDAS EN TODO SITIO  , PARA  ENAMORANDO A VARIAS CHICAS EN VARIAS GRUPOS PARA CITARLAS Y LUEGO KACHARLA CON VARIAS FLACAS DE ICA HA HECHO ESO   , Y TODO ESTO PERO LO QUE NO SABEN ES QUE ESE DUENDE MALDITO SE SIGUE KACHANDO A SU EX SUPLICANDOLE PARA CACHAR QUE SI NO LE HACE  CASO LE PEGA Y ARMA TODO UN CHONGAZOOO  MARRON VEJETE Y KACHA KABROS QUE LE GUSTA METERSE CON NIÑITAS PARA UTILIZARLA UNA VEZ QUE NO LE SIRVE LA ABONDONA CON TODA Y CRIA`)
+                  }	
+					
+		  if (budy.includes(`Ronal`)) {
+                  reply(`@🤡ঔৣ͡ஓீ°R𝖔𝖓𝖆lঔৣ͡ஓீ🇦🇫  OE ASI Q A LA FIACA TE RECHAZO X SER OTAKU ESO ES LO Q CUENTAN Q LA FIACA DETESTA A LOS OTAKUS Q SE SIENTE SER RECHAZADO X SER UN OTAKU❔VEN LO Q CONLLEVA SER UN OTAKU ASER RECHAZADO X LA PERSONA Q AMA👆😆🥑 `)
+                  }		
+					
+		  if (budy.includes(`nfr`)) {
                   reply(`dibujito `)
                   }		
+					
 		 if (budy.includes(`miembro`)) {
                   reply(`Mira mi estimado  , ya se que te preocupas por el bienestar del grupo, pero esas actitudes muestra que eres un ser con un intelecto por debajo del común general, por lo cual me veo en la penosa necesidad de darte un avance especializado en el analisis de creación, para que así puedas sobresalir en el campo de la materia de las cuentas de facebook fake, o más conocidas como "dibujitos", en pocas palabras, me llegas al pincho, deja de estar pidiendo el pack de Pierina y el de Sheyla... Añado tambien que dejen de mandarme el pack del "Tío Vilchez" y Fatima Segovia "La Chuecona", como te recalqué por privado, no tengo el video porno de Pierina, ni el de Sheyla, así que es en vano que me mandes el de Vilches, ya que no se podrá hacer el intercambio de estos videos íntimos. Bueno me despido, toda esta wbada me llega al pincho enserio.
 
@@ -1363,7 +1377,10 @@ break
 		if (budy.includes(`Pedro Soto`)) {
                   reply(`Terrible? 
  
-TERRIBLE ES TENER UN VIEJO BORRACHO , RETRASADO Y UNA VIEJA PERRA , SIN CEREBRO , FLOJA Y GORDA  SIN FUTURO , SI SABES DE QUIEN HABLO NO TE HAGAS LA IDIOTA , SOLO TE DIRE QUE PARA LA PROXIMA TEN HIGIENE AL VENDER TOFIS Y TURRONCITOS AREQUIPEÑOS PORQ ME VINIERON CON MANCHAS DE CACA SII TU NO TE HAGAS LA VICTIMA
+TERRIBLE ES TENER UN VIEJO BORRACHO , RETRASADO Y UNA VIEJA PERRA , SIN CEREBRO , FLOJA Y GORDA  SIN FUTURO , Pobre reno de Pedro soto 
+que se sentirá que ni virtualmente lo quieran, su madre lo abandonó su padre también y su hermana ya está cansada de mantenerlo 
+Si novia granosa de borracha pedía a Chabelo que sean novios y le dijieron que no
+Por eso regreso con el sin viejo
 `)
 			
                   }
