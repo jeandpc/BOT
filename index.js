@@ -1427,6 +1427,11 @@ Dime ese es tu ídolo?`)
         const none = fs.readFileSync('./anishan/anime2.mp3');
 		client.sendMessage(from, none, MessageType.audio, {quoted: mek, mimetype: 'audio/mp4', ptt:true})
                   }
+if (budy.startsWith(`bebe`)) {
+	const none = fs.readFileSync('./assets/bv.mp3');
+	client.sendMessage(from, tujuh, MessageType.audio, {quoted: mek, mimetype: 'audio/mp4', ptt:true})
+                  }				
+					
 	if (budy.startsWith(`Onichan`)) {
         const none = fs.readFileSync('./anishan/anime1.mp3');
 		client.sendMessage(from, none, MessageType.audio, {quoted: mek, mimetype: 'audio/mp4', ptt:true})
