@@ -1070,20 +1070,20 @@ break
 					buffer = await getBuffer(`https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRcnhmpQD1C1Dp7I2_kpi13gAsuoudOPPraog&usqp=CAU`)
 					buffer = await getBuffer(`https://i.ibb.co/F5QVZ1f/19564d25-b716-47c3-9f65-2f20f629a857-2.jpg`)
 					buffer = await getBuffer(`https://i.ibb.co/F5QVZ1f/19564d25-b716-47c3-9f65-2f20f629a857-2.jpg`)
-					client.sendMessage(from, buffer, image, {quoted: mek, caption: 'expediente Patrick expediente Patrick expediente Patrick'})
-					client.sendMessage(from, buffer, image, {quoted: mek, caption: 'ohhh que rico quien invoco señoras milf'})
+					client.sendMessage(from, buffer, image, {quoted: mek, caption: 'Aca pes con mi tia toda alaraca listo para el parreo chacalonero '})
+					client.sendMessage(from, buffer, image, {quoted: mek, caption: 'Aca pe yo todo charly con mi pucho a lado de mi tia cobra barato nomas aprovechen que mañana regresa a su pueblo'})
 					client.sendMessage(from, buffer, image, {quoted: mek, caption: 'expediente patrick'})
 					buffer = await getBuffer(`https://i.ibb.co/QXh2qq7/9193b220-130c-4821-a4a1-c61955956ea0-2.jpg`)
-					client.sendMessage(from, buffer, image, {quoted: mek, caption: 'que ricas maduras causa'})
+					client.sendMessage(from, buffer, image, {quoted: mek, caption: 'Ohhh me Vengooo'})
 					buffer = await getBuffer(`https://i.ibb.co/1vtV8fq/7b0b0974-87e7-4d9c-aee9-6f2d84b5c1c8.jpg`)
-					client.sendMessage(from, buffer, image, {quoted: mek, caption: 'la gatita de megaplaza'})
+					client.sendMessage(from, buffer, image, {quoted: mek, caption: 'llego tu Faron, el que te lo hace bien rico el que te complace en todas los aspectos conmigo viviras nuevas experiencias no te procupes, te tendre mucha paciencia'})
 					buffer = await getBuffer(`https://i.ibb.co/6Btvkd8/1915148-211596895091-2083844-n.jpg`)
-					client.sendMessage(from, buffer, image, {quoted: mek, caption: 'Meto pinga a su vieja de ahi voy a donde su tia'})
+					client.sendMessage(from, buffer, image, {quoted: mek, caption: '🔥llegue renovada❣️🔥mas culona❣️🔥bebita puta con ganas de leche😘💄 💄en umacollo (cerca al parque del avion)- habitacion privada discreta puerta a calle -💄 😘 💄mis servicio.😘 💄 --💄 sexo oral s/.50 sesion ( incluye lugar.)👌 riquisima chupada hasta que...'})
 					buffer = await getBuffer(`https://i.ibb.co/z6bBXg3/c55317d3-bd40-4bfc-9e6e-137c4194a670-2.jpg`)
-					client.sendMessage(from, buffer, image, {quoted: mek, caption: 'le vengooooo'})
+					client.sendMessage(from, buffer, image, {quoted: mek, caption: 'Me llamo debora la deboradora de penes soy una ardiente scort de medidas de infarto colita grande tetas firmes y jugosas tengo mi departamento privado en puente SJL el cual sera nuestro nidito de amor,si deseas mi colita es lo q mas me gusta... con poncho 5so pelado 10so'})
 					buffer = await getBuffer(`https://i.ibb.co/QXh2qq7/9193b220-130c-4821-a4a1-c61955956ea0-2.jpg`)
-					client.sendMessage(from, buffer, image, {quoted: mek, caption: 'quiero comer ese chifon'})
-					client.sendMessage(from, buffer, image, {quoted: mek, caption: 'le doy anal'})
+					client.sendMessage(from, buffer, image, {quoted: mek, caption: 'Puedes venirte en mis pechos o en mis nalgas, me dejo besar todo mi cuerpito y doy adicional de oral peladito para que sientas mucho más placer'})
+					client.sendMessage(from, buffer, image, {quoted: mek, caption: 'Ven a pasar una hora de placer y erotismo pasarás una hora de sexo full poses las veces q puedas sin apuros ven con nosotras y disfruta del placer erótico sin apuros ya deja de buscar en otros lados puras estafas ven con nosotras y lo pasaras super'})
 					
 					break
 					
@@ -1610,7 +1610,24 @@ if (budy.startsWith(`bebe`)) {
 		 if (budy.startsWith(`Ultimo momento`)) {
         const none = fs.readFileSync('./mp3/sombare6.mp3');
 		client.sendMessage(from, none, MessageType.audio, {quoted: mek, mimetype: 'audio/mp4', ptt:true})
-                  }			
+                  }	
+			
+			case 'rap1':
+tujuh = fs.readFileSync('./assets/rap1.mp3');
+client.sendMessage(from, tujuh, MessageType.audio, {quoted: mek, mimetype: 'audio/mp4', ptt:true})
+break
+					
+case 'rap2':
+tujuh = fs.readFileSync('./assets/rap2.mp3');
+client.sendMessage(from, tujuh, MessageType.audio, {quoted: mek, mimetype: 'audio/mp4', ptt:true})
+break
+					
+case 'rap3':
+tujuh = fs.readFileSync('./assets/rap3.mp3');
+client.sendMessage(from, tujuh, MessageType.audio, {quoted: mek, mimetype: 'audio/mp4', ptt:true})
+break		
+					
+					
 		if (budy.startsWith(`Nefasto`)) {
         const none = fs.readFileSync('./mp3/gaspi1.mp3');
 		client.sendMessage(from, none, MessageType.audio, {quoted: mek, mimetype: 'audio/mp4', ptt:true})
