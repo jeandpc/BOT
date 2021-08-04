@@ -1409,28 +1409,7 @@ Y mi boca es un buzón... `)
                   }		
 					
 		  if (budy.includes(`nfr`)) {
-                  reply(`memein = await kagApi.memeindo()
-					buffer = await getBuffer(`https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdU0UmT8RigE3Hbr80gmigjb2AdnPJklcQ3A&usqp=CAU`)
-					buffer = await getBuffer(`https://fotosdemulheresnuas.net/wp-content/uploads/2018/11/novinha-petuda-fotos-4.jpg`)
-					buffer = await getBuffer(`https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSqWoYHFA_SDgUip6MtvimWRdub_lshAn5Edg&usqp=CAU`)
-					buffer = await getBuffer(`https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwvLmbqW9LeOCpXiGxgu3By4eQEmJM2Xp26Q&usqp=CAU`)
-					buffer = await getBuffer(`https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRcnhmpQD1C1Dp7I2_kpi13gAsuoudOPPraog&usqp=CAU`)
-					buffer = await getBuffer(`https://i.ibb.co/F5QVZ1f/19564d25-b716-47c3-9f65-2f20f629a857-2.jpg`)
-					buffer = await getBuffer(`https://i.ibb.co/F5QVZ1f/19564d25-b716-47c3-9f65-2f20f629a857-2.jpg`)
-					client.sendMessage(from, buffer, image, {quoted: mek, caption: 'expediente Patrick expediente Patrick expediente Patrick'})
-					client.sendMessage(from, buffer, image, {quoted: mek, caption: 'ohhh que rico quien invoco señoras milf'})
-					client.sendMessage(from, buffer, image, {quoted: mek, caption: 'expediente patrick'})
-					buffer = await getBuffer(`https://i.ibb.co/QXh2qq7/9193b220-130c-4821-a4a1-c61955956ea0-2.jpg`)
-					client.sendMessage(from, buffer, image, {quoted: mek, caption: 'que ricas maduras causa'})
-					buffer = await getBuffer(`https://i.ibb.co/1vtV8fq/7b0b0974-87e7-4d9c-aee9-6f2d84b5c1c8.jpg`)
-					client.sendMessage(from, buffer, image, {quoted: mek, caption: 'la gatita de megaplaza'})
-					buffer = await getBuffer(`https://i.ibb.co/6Btvkd8/1915148-211596895091-2083844-n.jpg`)
-					client.sendMessage(from, buffer, image, {quoted: mek, caption: 'Meto pinga a su vieja de ahi voy a donde su tia'})
-					buffer = await getBuffer(`https://i.ibb.co/z6bBXg3/c55317d3-bd40-4bfc-9e6e-137c4194a670-2.jpg`)
-					client.sendMessage(from, buffer, image, {quoted: mek, caption: 'le vengooooo'})
-					buffer = await getBuffer(`https://i.ibb.co/QXh2qq7/9193b220-130c-4821-a4a1-c61955956ea0-2.jpg`)
-					client.sendMessage(from, buffer, image, {quoted: mek, caption: 'quiero comer ese chifon'})
-					client.sendMessage(from, buffer, image, {quoted: mek, caption: 'le doy anal'}) `)
+                  reply(` dibujo `)
                   }		
 					
 		 if (budy.includes(`miembro`)) {
