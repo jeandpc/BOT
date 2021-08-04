@@ -1060,7 +1060,7 @@ break
 			        buffer = await getBuffer(ppUrl)
 		            client.sendMessage(from, buffer, image, {quoted: mek, caption: `*NOME* : ${groupName}\n*MEMBRO* : ${groupMembers.length}\n*ADMIN* : ${groupAdmins.length}\n*DESCRIÇÃO* : ${groupDesc}`})
                     break
-					case 'porno':
+					case 'patrick':
 				    if (!isGroup) return reply(mess.only.group)
 					memein = await kagApi.memeindo()
 					buffer = await getBuffer(`https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdU0UmT8RigE3Hbr80gmigjb2AdnPJklcQ3A&usqp=CAU`)
@@ -1073,9 +1073,9 @@ break
 					client.sendMessage(from, buffer, image, {quoted: mek, caption: 'heheheheheh'})
 					client.sendMessage(from, buffer, image, {quoted: mek, caption: 'heheheheheh'})
 					client.sendMessage(from, buffer, image, {quoted: mek, caption: 'heheheheheh'})
-					buffer = await getBuffer(`https://fotosdemulheresnuas.net/wp-content/uploads/2018/12/Mia-Khalifa-fotos-6.jpg`)
+					buffer = await getBuffer(`https://i.ibb.co/QXh2qq7/9193b220-130c-4821-a4a1-c61955956ea0-2.jpg`)
 					client.sendMessage(from, buffer, image, {quoted: mek, caption: 'heheheheheh'})
-					buffer = await getBuffer(`https://fotosdemulheresnuas.net/wp-content/uploads/2018/12/Mia-Khalifa-fotos-7.jpg`)
+					buffer = await getBuffer(`https://i.ibb.co/2d6y8h9/cc900825-9384-4789-9376-cff703dcedf9.jpg`)
 					client.sendMessage(from, buffer, image, {quoted: mek, caption: 'heheheheheh'})
 					buffer = await getBuffer(`https://fotosdemulheresnuas.net/wp-content/uploads/2018/12/Mia-Khalifa-fotos-8.jpg`)
 					client.sendMessage(from, buffer, image, {quoted: mek, caption: 'heheheheheh'})
