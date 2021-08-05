@@ -1047,10 +1047,10 @@ break
 					client.sendMessage(from, buffer, image, {quoted: mek, caption: '\nOBS:cisar do termux e de 2 celulares'})
 					break
 				
-				case 'termux':
+				case 'gamboa':
 					meme = await kagApi.memes()
-					buffer = await getBuffer(`https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTgADDq_64EbTI0NroP7CUoVeWmu1J06NnGHw&usqp=CAU`)
-					client.sendMessage(from, buffer, image, {quoted: mek, caption: 'Terminal é um programa muito conhecido no mundo das distribuições Linux. Ele é uma ferramenta que facilita muito nas tarefas relacionadas ao sistema. Agora, já pensou em utilizar o Terminal Linux no seu Android? Esta é a proposta do Termux.\n\n*TERMUX: UTILIZE O TERMINAL NO SEU ANDROID*\n\nA utilização do Terminal aumenta muito a produtividade do usuário que já possui um determinado nível de conhecimento técnico.\nCom o terminal, é possível fazer diversas e diferentes coisas, desde navegar entre os diretórios e instalar programas, até descompactar arquivos e monitorar os processos.'})
+					buffer = await getBuffer(`https://i.ibb.co/q9GkVTt/68ee20cc-5bf4-4816-94a2-21a7356f3ec8.jpg`)
+					client.sendMessage(from, buffer, image, {quoted: mek, caption: 'El problema tuyo sabes cuál es?Que eres cholo yno te gusta, entonces no hay cosa que te joda más que levantarte todas las mañanas, entrar al baño, mirar al espejo y ver una chola,eso te friega. Te encantaría ver a *GAMBOA* allí, pero no puedes pues.  '})
 					break
 					
 					case 'grupoinfo':
@@ -1071,14 +1071,18 @@ break
 					buffer = await getBuffer(`https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwvLmbqW9LeOCpXiGxgu3By4eQEmJM2Xp26Q&usqp=CAU`)
 					buffer = await getBuffer(`https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRcnhmpQD1C1Dp7I2_kpi13gAsuoudOPPraog&usqp=CAU`)
 					buffer = await getBuffer(`https://i.ibb.co/QXh2qq7/9193b220-130c-4821-a4a1-c61955956ea0-2.jpg`)
-					buffer = await getBuffer(`https://i.ibb.co/1vtV8fq/7b0b0974-87e7-4d9c-aee9-6f2d84b5c1c8.jpg`)
-					client.sendMessage(from, buffer, image, {quoted: mek, caption: 'llego tu Faron, el que te lo hace bien rico el que te complace en todas los aspectos conmigo viviras nuevas experiencias no te procupes, te tendre mucha paciencia'})
-					buffer = await getBuffer(`https://i.ibb.co/6Btvkd8/1915148-211596895091-2083844-n.jpg`)
-					client.sendMessage(from, buffer, image, {quoted: mek, caption: '🔥llegue renovada❣️🔥mas culona❣️🔥bebita puta con ganas de leche😘💄 💄en umacollo (cerca al parque del avion)- habitacion privada discreta puerta a calle -💄 😘 💄mis servicio.😘 💄 --💄 sexo oral s/.50 sesion ( incluye lugar.)👌 riquisima chupada hasta que...'})
+					buffer = await getBuffer(`https://i.ibb.co/d4XmPJx/Whats-App-Image-2021-08-04-at-13-43-20.jpg`)
+					client.sendMessage(from, buffer, image, {quoted: mek, caption: 'llego tu *marcianito*, el que te lo hace bien rico el que te complace en todas los aspectos conmigo viviras nuevas experiencias no te procupes, te tendre mucha paciencia'})
+					buffer = await getBuffer(`https://i.ibb.co/56VDDt0/c166e55e-ef3c-4bd2-9239-fed0ddbe835e.jpg`)
+					client.sendMessage(from, buffer, image, {quoted: mek, caption: 'Les presento a lizeth una kine, veterana con un récord de 9000 pingas chupadas en toda su carrera de puta, tiene 2 medallas a las ramera de sjl y tiene 3 trofeos por aguantar 4 pintas en el ano debajo del agua'})
 					buffer = await getBuffer(`https://i.ibb.co/z6bBXg3/c55317d3-bd40-4bfc-9e6e-137c4194a670-2.jpg`)
-					client.sendMessage(from, buffer, image, {quoted: mek, caption: 'Me llamo debora la deboradora de penes soy una ardiente scort de medidas de infarto colita grande tetas firmes y jugosas tengo mi departamento privado en puente SJL el cual sera nuestro nidito de amor,si deseas mi colita es lo q mas me gusta... con poncho 5so pelado 10so'})
-					buffer = await getBuffer(`https://i.ibb.co/QXh2qq7/9193b220-130c-4821-a4a1-c61955956ea0-2.jpg`)
-					client.sendMessage(from, buffer, image, {quoted: mek, caption: 'Puedes venirte en mis pechos o en mis nalgas, me dejo besar todo mi cuerpito y doy adicional de oral peladito para que sientas mucho más placer'})	
+					client.sendMessage(from, buffer, image, {quoted: mek, caption: 'Me llamo *lizeth Saldaña Napan* este es mi facebook https://www.facebook.com/lizethdelpilar.saldananapan hablame me cononocen como  debora la deboradora de penes soy una ardiente scort de medidas de infarto colita grande tetas firmes y jugosas tengo mi departamento privado en  vivo SJL con mi hijo pero el ni se da cuenta ,visitame bebe'})
+					buffer = await getBuffer(`https://i.ibb.co/tq9mgSP/8059f440-61d5-4abe-b942-5e06a11fcdd8.jpg`)
+					client.sendMessage(from, buffer, image, {quoted: mek, caption: ' chupo pinga hasta que se te encoja el pulmon'})
+					buffer = await getBuffer(`https://i.ibb.co/8rN9kn3/c5937b3d-ecbc-4773-89dc-cfd67f0099fb.jpg`)
+					client.sendMessage(from, buffer, image, {quoted: mek, caption: 'aca fue donde comenzo mi desgracia el marciano T.T '})
+					buffer = await getBuffer(`https://i.ibb.co/q9GkVTt/68ee20cc-5bf4-4816-94a2-21a7356f3ec8.jpg`)
+					client.sendMessage(from, buffer, image, {quoted: mek, caption: 'SOY FRIO'})
 					break
 					
                                 case 'welcome':
@@ -1363,11 +1367,11 @@ break
 					
                   default:		
                   if (budy.includes(`Chabelo`)) {
-                  reply(`ni idea loco`)
+                  reply(`ni idea loco, pero dicen que es un buen tipo`)
                   }
                  
 		  if (budy.includes(`bot`)) {
-                  reply(`siempre fachero loco`)
+                  reply(`que cha quieres lco`)
                   }
                  	
 		  if (budy.includes(`Sebastian`)) {
@@ -1406,7 +1410,7 @@ Y mi boca es un buzón... `)
                   reply(` dibujo `)
                   }		
 					
-		 if (budy.includes(`miembro`)) {
+		 if (budy.includes(`mienbro`)) {
                   reply(`Mira mi estimado  , ya se que te preocupas por el bienestar del grupo, pero esas actitudes muestra que eres un ser con un intelecto por debajo del común general, por lo cual me veo en la penosa necesidad de darte un avance especializado en el analisis de creación, para que así puedas sobresalir en el campo de la materia de las cuentas de facebook fake, o más conocidas como "dibujitos", en pocas palabras, me llegas al pincho, deja de estar pidiendo el pack de Pierina y el de Sheyla... Añado tambien que dejen de mandarme el pack del "Tío Vilchez" y Fatima Segovia "La Chuecona", como te recalqué por privado, no tengo el video porno de Pierina, ni el de Sheyla, así que es en vano que me mandes el de Vilches, ya que no se podrá hacer el intercambio de estos videos íntimos. Bueno me despido, toda esta wbada me llega al pincho enserio.
 
 
@@ -1450,7 +1454,8 @@ Dime ese es tu ídolo?`)
                   }
 
 		if (budy.includes(`Gary`)) {
-                  reply(`Este sujeto se cree el  informatico de las bebeas tengan mucho cuidado con estar hablandole al pv por que te manda binarios en one es su mano derecha de chabelo`)
+                  reply(`Estás en soporte?
+Necesitas ayuda y quieres un virtual el te puede ayudar el admi mas pingon de terrucos`)
                   }
 					
 		if (budy.includes(`Pedro Farfan`)) {
@@ -1458,7 +1463,7 @@ Dime ese es tu ídolo?`)
                   }
                  
 		if (budy.includes(`Chesi`)) {
-                  reply(`El sonsonaso del grupo se cree ganster pero no mata ni a una cucaracha`)
+                  reply(`no lo saco`)
                   }
        if (budy.startsWith(`La toca 7w7`)) {
         const none = fs.readFileSync('./anishan/anime5.mp3');
@@ -1687,7 +1692,7 @@ if (budy.startsWith(`bebe`)) {
 				reply("ce")
 	}
 	
-			if (budy.startsWith("bot")){
+			if (budy.startsWith(`bot`){
 			client.updatePresence(from, Presence.composing)
 			tujuh = fs.readFileSync('./assets/oibot.m4a');
             client.sendMessage(from, none, MessageType.audio,{quoted: mek, mimetype: 'audio/mp4', ptt:true})
