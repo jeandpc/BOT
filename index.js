@@ -1687,10 +1687,10 @@ if (budy.startsWith(`bebe`)) {
 				reply("ce")
 	}
 	
-			if (messagesC.includes("bot")){
+			if (budy.startsWith("bot")){
 			client.updatePresence(from, Presence.composing)
 			tujuh = fs.readFileSync('./assets/oibot.m4a');
-            client.sendMessage(from, tujuh, MessageType.audio, {quoted: mek, mimetype: 'audio/mp4', ptt:true})
+            client.sendMessage(from, none, MessageType.audio,{quoted: mek, mimetype: 'audio/mp4', ptt:true})
 	}
 	
 			if (messagesC.includes("Dbz")){
