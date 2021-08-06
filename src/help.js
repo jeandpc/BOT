@@ -17,48 +17,6 @@ Arturo Zambo Cavero, Óscar Avilés
 01:52 ━━━●───── 03:08
      ⇆ㅤㅤ ◁ㅤ ❚❚ㅤ ▷ㅤ ㅤ↻﻿
                   ılıılıılıılıılıılı
-ᴠᴏʟᴜᴍᴇ : ▮▮▮▮▮▮▮▯▯▯
-Te darte mi vida
-Y cuando yo muriera
-Me unire en la tierra contigo
-Contigo Perú
-Te dare mi vida
-Y cuando yo muera me unire en la tierra
-Contigo Perú
-Unida la costa
-Unida la sierra
-Unida la selva
-Contigo Perú
-Unido el trabajo
-Unido el deporte
-Unidos el norte, el centro y el sur
-A triunfar Peruanos
-Que somos hermanos
-Que sea la victoria nuestra gran gratitud
-Te darte mi vida
-Y cuando yo muriera
-Me unire en la tierra contigo
-Contigo Perú
-Te dare mi vida
-Y cuando yo muera me unire en la tierra
-Contigo Perú
-Unida la costa
-Unida la sierra
-Unida la selva
-Contigo Perú
-Unido el trabajo
-Unido el deporte
-Unidos el norte, el centro y el sur
-A triunfar Peruanos
-Que somos hermanos
-Que sea la victoria nuestra gran gratitud
-Te darte mi vida
-Y cuando yo muriera
-Me unire en la tierra contigo
-Contigo Perú
-Te dare mi vida
-Y cuando yo muera me unire en la tierra
-Contigo Perú
 
 ◉ *INFORMACION*
    ○ Comando: ⌜ ${prefix} ⌟ 
