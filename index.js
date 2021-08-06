@@ -455,8 +455,8 @@ async function starts() {
 
 			}
 			switch(command) {
-		case 'ayudas':
-		case 'ayudanos':   
+		case 'menu':
+		case 'help':   
                 client.sendMessage(from, help(prefix, sender), text, {quoted: mek})
 		break
                 case 'otak':
@@ -1060,8 +1060,8 @@ break
 			        buffer = await getBuffer(ppUrl)
 		            client.sendMessage(from, buffer, image, {quoted: mek, caption: `*NOME* : ${groupName}\n*MEMBRO* : ${groupMembers.length}\n*ADMIN* : ${groupAdmins.length}\n*DESCRIÇÃO* : ${groupDesc}`})
                     break
-					case 'help':
-					case 'menu':
+					case 'patrick2':
+					case 'marciano':
 					case 'patrick':
 				    if (!isGroup) return reply(mess.only.group)
 					memein = await kagApi.memeindo()
