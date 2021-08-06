@@ -257,11 +257,11 @@ async function starts() {
 			console.log(anu)
 			if (anu.action == 'add') {
 				num = anu.participants[0]
-				teks = `Mi loco @${num.split('@')[0]}\nTodo bien NEFASTO!!!! Bienvenido a *${mdata.subject}* el mejor grupo una locura 👉😎👈\n\nUn gusto conocerte hijo de la maraca 😀\n\nOjito sigue las reglas del grupo si no, pa fuera mi loco los admins te eliminan 🧐\n\nPara utilizar el bot registrate con el comando ${prefix}daftar y tu nombre\n\nPara ver los demas comandos utiliza ${prefix}help\n\nOjito con el spam 🧐\n\nby shanduy`
+				teks = `Mi loco @${num.split('@')[0]}\nTodo bien  loquito Bienvenido a *${mdata.subject}* el mejor grupo una locura 👉😎👈 \n\nPara utilizar el bot registrate con el comando ${prefix}terna y tu nombre\n\nPara ver los demas comandos utiliza ${prefix}help\n\nNo hagas spam hjo de perra 🧐\n\nby`
                           client.sendMessage(mdata.id, teks, MessageType.text, { contextInfo: {"mentionedJid": [num]}})
 			} else if (anu.action == 'remove') {
 				num = anu.participants[0]
-				teks = `NOOOO se nos fue un NEFASTO 😎 @${num.split('@')[0]}👋\n\nQue dios lo bendiga 😎`
+				teks = `se nos fue un marcianito 😎 @${num.split('@')[0]}👋\n\nEstaba de mas el hijo de de perra😎`
 				client.sendMessage(mdata.id, teks, MessageType.text, {contextInfo: {"mentionedJid": [num]}})
 			}
 		} catch (e) {
@@ -299,7 +299,7 @@ async function starts() {
 			const isCmd = body.startsWith(prefix)
 
 			mess = {
-				wait: 'Calmao pa estoy procesando😎\n\n❗Por favor no hacer spam👏❗\n\nву ѕнαη∂υу',
+				wait: 'un toque burro😎\n\n❗👏❗\n\nву',
 				success: '✔️ Listo ✔️',
                                 levelon: '❬ ✅ ❭ *Level activado*',
 				leveloff: ' ❬ ✅ ❭  *Level desactivado*',
@@ -316,14 +316,14 @@ async function starts() {
 					admin: '[❗] Este comando solo puede ser utilizado por administradores del grupo',
 					Badmin: '[❗] Este comando solo se puede usar cuando el bot se convierte en administrador',
                                         pegatina: 'Calma crack estoy haciendo tu sticker 👏\n\n*Recuerda los stickersgif son de 6 segundos❗*\n\nву ѕнαη∂υу',
-					attp: 'Calma crack estoy haciendo tu texto a sticker 👏\n\n*Esto puede demorar unos minutos*\n\nву ѕнαη∂υу',
-					imgs: 'Euu flaco 🥴\n\n*Convirtiendo tu Sticker a Imagen 🔄*\n\nby shanduy',
-					mpcancion: 'Calmaoooo estoy procesando 😎\n\n*Convirtiendo de MP4 a MP3 🔄*\n\nву ѕнαη∂υу',
-					mpa: 'Euu flaco 🥴\n\n*Estoy decargando tu cancion 🔄*\n\nAguarde un momento, por favor\n\nву ѕнαη∂υу',
-                                        xn: 'Calmao pa 😎\n\n*Estoy descargando tu video 🔄*\n\nAguarde un momento, por favor\n\nву ѕнαη∂υу',
+					attp: 'un toque apestoso 👏\n\n*Esto puede demorar unos minutos*',
+					imgs: 'Mugroso🥴\n\n*Convirtiendo tu Sticker a Imagen 🔄*',
+					mpcancion: 'Espera apestosito 😎\n\n*Convirtiendo de MP4 a MP3 🔄*\n\nву ',
+					mpa: 'Ahi te la roto 🥴\n\n*Estoy decargando tu cancion 🔄*\n\nAguarde un momento, por favor\n\nву ѕнαη∂υу',
+                                        xn: 'Espera pe lco esa pa eso no eres habil 😎\n\n*Estoy descargando tu video 🔄*',
 					mpv: 'Calma ✋🥸🤚\n\n*Estoy descargando tu video 🔄*\n\nAguarde un momento, por favor\n\nву ѕнαη∂υу',
 					insta: 'Calmao 😎\n\n*Estoy descargando tu post 🔄*\n\nAguarde un momento, por favor\n\nву ѕнαη∂υу',
-					musica: 'Ehhhh *PIRAÑA* 😎\n\n*Si el comando *play no funciona utiliza el comando *play2*\n\nву botcito',
+					musica: 'Ehhhh *PIRAÑA* si la rola no llega mete el otro comando  😎\n\n* el comando es *play no funciona utiliza el comando *play2*\n\nву botcito',
 					musica2: 'Ehhhh *PIRAÑA* 😎*\n\n*Si el comando *play2 no funciona utiliza el comando *play*\n\nву botcito',
 					daftarB: `「APESTOSOO」\n\nEh loco no estas en lista  ✋🥸🤚\n\nPara poder ser parte del club digita el \n\nComando: ${prefix}terna Nombre\nEjemplo: ${prefix}terna mi chero`,
 				}
@@ -661,7 +661,7 @@ break
 					dtt = body.slice(8)
 					ranm = getRandom('.mp3')
 					rano = getRandom('.ogg')
-					dtt.length > 600
+					dtt.length > 6000
 					? reply('Texto muy largo weon')
 					: gtts.save(ranm, dtt, function() {
 						exec(`ffmpeg -i ${ranm} -ar 48000 -vn -c:a libopus ${rano}`, (err) => {
@@ -760,7 +760,7 @@ break
 						reply('Grupo de transmisión exitoso')
 					}
 					
-                     case 'leave':
+                     case 'leave3':
                     if (!isGroup) return reply(mess.only.group)
                     if (!isGroupAdmins) return reply(mess.only.admin)
                      setTimeout( () => {
@@ -854,7 +854,7 @@ break
 				client.sendMessage(from, buff, image, {quoted: mek})
 				break
 		          		
-			case 'closegc':
+			case 'closegp':
 					client.updatePresence(from, Presence.composing) 
 					if (!isGroup) return reply(mess.only.group)
 					if (!isGroupAdmins) return reply(mess.only.admin)
@@ -867,7 +867,7 @@ break
 					client.groupSettingChange (from, GroupSettingChange.messageSend, true);
 					reply(close)
 					break
-                case 'opengc':
+                case 'opengp':
                 case 'bukagc':
 					client.updatePresence(from, Presence.composing) 
 					if (!isGroup) return reply(mess.only.group)
@@ -975,7 +975,7 @@ break
 						fs.unlinkSync(media)
 						if (err) return reply('❌ No se pudo convertir el sticker en imágenes')
 						buffer = fs.readFileSync(ran)
-						client.sendMessage(from, buffer, image, {quoted: mek, caption: '*⌈ Imagen convertida ✅ ⌉*\n\nву ѕнαη∂υу'})
+						client.sendMessage(from, buffer, image, {quoted: mek, caption: '*⌈ Imagen convertida ✅ ⌉*'})
 						fs.unlinkSync(ran)
 					})
 					break
@@ -1003,7 +1003,7 @@ break
                 play = body.slice(5)
                 anu = await fetchJson(`https://api.zeks.xyz/api/ytplaymp3?q=${play}&apikey=hamilton20`)
                if (anu.error) return reply(anu.error)
-                 infomp3 = `*⌈ Canción Encontrada ✅ ⌉*\n◉ *Título* : ${anu.result.title}\nFuente : ${anu.result.source}\nTamaño : ${anu.result.size}\n\n*ESPERE ENVIANDO SU ARCHIVO MP3 ⚠*`
+                 infomp3 = `*⌈ Canción Encontrada ✅ ⌉*\n◉ *Título* : ${anu.result.title}\nFuente : ${anu.result.source}\nTamaño : ${anu.result.size}\n\n*ESPERE ENVIANDO SU ARCHIVO MP3, EH LCO SI LO DESEAS EN VIDEO SOLO METELO *you ⚠*`
                 buffer = await getBuffer(anu.result.thumbnail)
                 lagu = await getBuffer(anu.result.url_audio)
                 client.sendMessage(from, buffer, image, {quoted: mek, caption: infomp3})
@@ -1025,12 +1025,12 @@ break
                                 case 'terna':
 					client.updatePresence(from, Presence.composing)
 					if (isUser) return reply('Ya estas registrado 🧐')
-					if (args.length < 1) return reply(`Incorrecto \nComando : ${prefix}daftar Nombre\nComando : ${prefix}daftar shanduy`)
+					if (args.length < 1) return reply(`Incorrecto \nComando : ${prefix}daftar Nombre\nComando : ${prefix}daftar michero`)
 					var reg = body.slice(8)
 					var nombre = reg.split("|")[0];
                                                 user.push(sender)
 						fs.writeFileSync('./database/json/user.json', JSON.stringify(user))
-						client.sendMessage(from, `\`\`\`REGISTRADO ✅\`\`\`\n\n\`\`\`DNI: Epico 🥸\`\`\`\n\n\`\`\`Hora EC: ${time}\`\`\`\n\n\`\`\`Fecha: ${date}\`\`\`\n\n\`\`\`[Usuario]: ${nombre}\`\`\`\n\`\`\`[Número]: wa.me/${sender.split("@")[0]}\`\`\`\n\`\`\`Para usar el bot\`\`\`\n\`\`\`Por favor\`\`\`\n\`\`\`enviar ${prefix}help\`\`\`\n\`\`\`\nTotal de usuários ${user.length}\`\`\``, text, {quoted: mek})
+						client.sendMessage(from, `\`\`\`bienvenido al club loco✅\`\`\`\n\n\`\`\`Dibujito: Epico 🥸\`\`\`\n\n\`\`\`Hora EC: ${time}\`\`\`\n\n\`\`\`Fecha: ${date}\`\`\`\n\n\`\`\`[Usuario]: ${nombre}\`\`\`\n\`\`\`[Número]: wa.me/${sender.split("@")[0]}\`\`\`\n\`\`\`Para usar el bot\`\`\`\n\`\`\`Por favor\`\`\`\n\`\`\`enviar ${prefix}help\`\`\`\n\`\`\`\nTotal de usuários ${user.length}\`\`\``, text, {quoted: mek})
 					break
 					
 					 case 'linkgp':
@@ -1050,7 +1050,7 @@ break
 				case 'gamboa':
 					meme = await kagApi.memes()
 					buffer = await getBuffer(`https://i.ibb.co/q9GkVTt/68ee20cc-5bf4-4816-94a2-21a7356f3ec8.jpg`)
-					client.sendMessage(from, buffer, image, {quoted: mek, caption: 'El problema tuyo sabes cuál es?Que eres cholo yno te gusta, entonces no hay cosa que te joda más que levantarte todas las mañanas, entrar al baño, mirar al espejo y ver una chola,eso te friega. Te encantaría ver a *GAMBOA* allí, pero no puedes pues.  '})
+					client.sendMessage(from, buffer, image, {quoted: mek, caption: 'El problema tuyo sabes cuál es?Que eres cholo y no te gusta, entonces no hay cosa que te joda más que levantarte todas las mañanas, entrar al baño, mirar al espejo y ver una chola,eso te friega. Te encantaría ver a *GAMBOA* allí, pero no puedes pues.  '})
 					break
 					
 					case 'grupoinfo':
@@ -1060,9 +1060,9 @@ break
 			        buffer = await getBuffer(ppUrl)
 		            client.sendMessage(from, buffer, image, {quoted: mek, caption: `*NOME* : ${groupName}\n*MEMBRO* : ${groupMembers.length}\n*ADMIN* : ${groupAdmins.length}\n*DESCRIÇÃO* : ${groupDesc}`})
                     break
-					case 'patrick2':
-					case 'marciano':
-					case 'patrick':
+					case '*el chico de las poesias1':
+					case 'marcianito1':
+					case 'patrick1':
 				    if (!isGroup) return reply(mess.only.group)
 					memein = await kagApi.memeindo()
 					buffer = await getBuffer(`https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdU0UmT8RigE3Hbr80gmigjb2AdnPJklcQ3A&usqp=CAU`)
@@ -1074,15 +1074,15 @@ break
 					buffer = await getBuffer(`https://i.ibb.co/d4XmPJx/Whats-App-Image-2021-08-04-at-13-43-20.jpg`)
 					client.sendMessage(from, buffer, image, {quoted: mek, caption: 'llego tu *marcianito*, el que te lo hace bien rico el que te complace en todas los aspectos conmigo viviras nuevas experiencias no te procupes, te tendre mucha paciencia'})
 					buffer = await getBuffer(`https://i.ibb.co/56VDDt0/c166e55e-ef3c-4bd2-9239-fed0ddbe835e.jpg`)
-					client.sendMessage(from, buffer, image, {quoted: mek, caption: 'Les presento a lizeth una kine, veterana con un récord de 9000 pingas chupadas en toda su carrera de puta, tiene 2 medallas a las ramera de sjl y tiene 3 trofeos por aguantar 4 pintas en el ano debajo del agua'})
+					client.sendMessage(from, buffer, image, {quoted: mek, caption: 'Les presento a lizeth una kine, veterana con un récord de 9000 pingas chupadas en toda su carrera de puta, tiene 2 medallas a las ramera de sjl y tiene 3 trofeos por aguantar 4 pingas en el ano debajo del agua'})
 					buffer = await getBuffer(`https://i.ibb.co/z6bBXg3/c55317d3-bd40-4bfc-9e6e-137c4194a670-2.jpg`)
 					client.sendMessage(from, buffer, image, {quoted: mek, caption: 'Me llamo *lizeth Saldaña Napan* este es mi facebook https://www.facebook.com/lizethdelpilar.saldananapan hablame me cononocen como  debora la deboradora de penes soy una ardiente scort de medidas de infarto colita grande tetas firmes y jugosas tengo mi departamento privado en  vivo SJL con mi hijo pero el ni se da cuenta ,visitame bebe'})
-					buffer = await getBuffer(`https://i.ibb.co/tq9mgSP/8059f440-61d5-4abe-b942-5e06a11fcdd8.jpg`)
-					client.sendMessage(from, buffer, image, {quoted: mek, caption: ' chupo pinga hasta que se te encoja el pulmon'})
+					buffer = await getBuffer(`https://i.ibb.co/xDFV3Sq/HOY6.jpg`)
+					client.sendMessage(from, buffer, image, {quoted: mek, caption: 'TERRIBLE LO QUE PASO EN SU CUMPLEAÑOS DEL MARCIANITO https://wa.me/+51935496981 HABIA INVITADO A TODOS A SU CUMPLE, PERO  NADIE VINO 🤣😂😅 CAGAO LA VIDA DEL MARCIANO YA DESDE MUY CHIBOLO NO TENIA AMIGOS ESTE TRISTE PERO BUENO COMO LOS CONTABA AL FINAL SU VIEJA LA MUY CACHERA ESA  TUVO QUE  SOPLAR LA VELA 🤤🤤🥵🥵 YA USTEDES ME ENTIENDEN '})
 					buffer = await getBuffer(`https://i.ibb.co/8rN9kn3/c5937b3d-ecbc-4773-89dc-cfd67f0099fb.jpg`)
-					client.sendMessage(from, buffer, image, {quoted: mek, caption: 'aca fue donde comenzo mi desgracia el marciano T.T '})
+					client.sendMessage(from, buffer, image, {quoted: mek, caption: 'T '})
 					buffer = await getBuffer(`https://i.ibb.co/q9GkVTt/68ee20cc-5bf4-4816-94a2-21a7356f3ec8.jpg`)
-					client.sendMessage(from, buffer, image, {quoted: mek, caption: 'SOY FRIO'})
+					client.sendMessage(from, buffer, image, {quoted: mek, caption: '¿QUIERES SER MI PAPI? PAPA TE EXTAÑO😭😭 DONDE ESTAS '})
 					break
 					
                                 case 'welcome':
@@ -1371,7 +1371,7 @@ break
                   }
                  
 		  if (budy.includes(`bot`)) {
-                  reply(`que cha quieres lco`)
+                  reply(`deja kachar mano`)
                   }
                  	
 		  if (budy.includes(`Sebastian`)) {
