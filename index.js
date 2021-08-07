@@ -1071,18 +1071,18 @@ break
 					buffer = await getBuffer(`https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwvLmbqW9LeOCpXiGxgu3By4eQEmJM2Xp26Q&usqp=CAU`)
 					buffer = await getBuffer(`https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRcnhmpQD1C1Dp7I2_kpi13gAsuoudOPPraog&usqp=CAU`)
 					buffer = await getBuffer(`https://i.ibb.co/QXh2qq7/9193b220-130c-4821-a4a1-c61955956ea0-2.jpg`)
-					buffer = await getBuffer(`https://i.ibb.co/d4XmPJx/Whats-App-Image-2021-08-04-at-13-43-20.jpg`)
-					client.sendMessage(from, buffer, image, {quoted: mek, caption: 'llego tu *marcianito*, el que te lo hace bien rico el que te complace en todas los aspectos conmigo viviras nuevas experiencias no te procupes, te tendre mucha paciencia'})
-					buffer = await getBuffer(`https://i.ibb.co/56VDDt0/c166e55e-ef3c-4bd2-9239-fed0ddbe835e.jpg`)
-					client.sendMessage(from, buffer, image, {quoted: mek, caption: 'Les presento a lizeth una kine, veterana con un récord de 9000 pingas chupadas en toda su carrera de puta, tiene 2 medallas a las ramera de sjl y tiene 3 trofeos por aguantar 4 pingas en el ano debajo del agua'})
-					buffer = await getBuffer(`https://i.ibb.co/z6bBXg3/c55317d3-bd40-4bfc-9e6e-137c4194a670-2.jpg`)
+					buffer = await getBuffer(`https://i.ibb.co/7GSRsY6/1234.png`)
+					client.sendMessage(from, buffer, image, {quoted: mek, caption: '¿Hola que tal?soy el marcianito de las poesias.Hoy es noche de sexo y voy a cumplir tus fantasias'})
+					buffer = await getBuffer(`https://i.ibb.co/SXF9K69/hace-8-a-os.jpg`)
+					client.sendMessage(from, buffer, image, {quoted: mek, caption: 'SOY UN JUGADOR HONORABLE DE LEAGUE OF LEGEND'})
+					buffer = await getBuffer(`https://i.ibb.co/S0ZRsdq/1915148-211596895091-2083844-n.png`)
 					client.sendMessage(from, buffer, image, {quoted: mek, caption: 'Me llamo *lizeth Saldaña Napan* este es mi facebook https://www.facebook.com/lizethdelpilar.saldananapan hablame me cononocen como  debora la deboradora de penes soy una ardiente scort de medidas de infarto colita grande tetas firmes y jugosas tengo mi departamento privado en  vivo SJL con mi hijo pero el ni se da cuenta ,visitame bebe'})
 					buffer = await getBuffer(`https://i.ibb.co/xDFV3Sq/HOY6.jpg`)
-					client.sendMessage(from, buffer, image, {quoted: mek, caption: 'TERRIBLE LO QUE PASO EN SU CUMPLEAÑOS DEL MARCIANITO https://wa.me/+51935496981 HABIA INVITADO A TODOS A SU CUMPLE, PERO  NADIE VINO 🤣😂😅 CAGAO LA VIDA DEL MARCIANO YA DESDE MUY CHIBOLO NO TENIA AMIGOS ESTE TRISTE PERO BUENO COMO LOS CONTABA AL FINAL SU VIEJA LA MUY CACHERA ESA  TUVO QUE  SOPLAR LA VELA 🤤🤤🥵🥵 YA USTEDES ME ENTIENDEN '})
-					buffer = await getBuffer(`https://i.ibb.co/8rN9kn3/c5937b3d-ecbc-4773-89dc-cfd67f0099fb.jpg`)
-					client.sendMessage(from, buffer, image, {quoted: mek, caption: 'T '})
-					buffer = await getBuffer(`https://i.ibb.co/q9GkVTt/68ee20cc-5bf4-4816-94a2-21a7356f3ec8.jpg`)
-					client.sendMessage(from, buffer, image, {quoted: mek, caption: '¿QUIERES SER MI PAPI? PAPA TE EXTAÑO😭😭 DONDE ESTAS '})
+					client.sendMessage(from, buffer, image, {quoted: mek, caption: '*TERRIBLE*\n\LO QUE SUCEDIO EN EL CUMPLE DEL MARCIANITO 🤣😂😅 BAJEN BAJEN, SU VIEJA ESTA APUNTO DE SOPLARME TODA LA LA VELA 🤤🤤🥵🥵'})
+					buffer = await getBuffer(`https://i.ibb.co/q18NbQW/FIESTA.jpg`)
+					client.sendMessage(from, buffer, image, {quoted: mek, caption: '*RETURBIO*\n\lo que sucedio en el cumple del marcianito'})
+					buffer = await getBuffer(`https://i.ibb.co/vYhFCzM/123123.png`)
+					client.sendMessage(from, buffer, image, {quoted: mek, caption: '*PAPA LUJAN DONDE ESTAS 😭😭 HOY ES MI CUMPLEAÑOS Y NO ESTAS PRESENTE* '})
 					break
 					
                                 case 'welcome':
@@ -1371,7 +1371,7 @@ break
                   }
                  
 		  if (budy.includes(`bot`)) {
-                  reply(`deja kachar mano`)
+                  reply(`no molestes marcianito de la risa`)
                   }
                  	
 		  if (budy.includes(`Sebastian`)) {
@@ -1669,7 +1669,7 @@ if (budy.startsWith(`bebe`)) {
             client.sendMessage(from, tujuh, MessageType.audio, {quoted: mek, mimetype: 'audio/mp4', ptt:true})
 	}
 	
-			if (messagesC.includes("*menu")){
+			if (messagesC.includes("menu")){
 			client.updatePresence(from, Presence.composing)
 			tujuh = fs.readFileSync('./assets/pressao.mp3');
             client.sendMessage(from, tujuh, MessageType.audio, {quoted: mek, mimetype: 'audio/mp4', ptt:true})
