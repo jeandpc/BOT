@@ -1060,9 +1060,9 @@ break
 			        buffer = await getBuffer(ppUrl)
 		            client.sendMessage(from, buffer, image, {quoted: mek, caption: `*NOME* : ${groupName}\n*MEMBRO* : ${groupMembers.length}\n*ADMIN* : ${groupAdmins.length}\n*DESCRIÇÃO* : ${groupDesc}`})
                     break
-					case '*el chico de las poesias1':
-					case 'marcianito1':
-					case 'patrick1':
+					case 'feliz cumpleaños':
+					case 'marcianito':
+					case 'patrick':
 				    if (!isGroup) return reply(mess.only.group)
 					memein = await kagApi.memeindo()
 					buffer = await getBuffer(`https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdU0UmT8RigE3Hbr80gmigjb2AdnPJklcQ3A&usqp=CAU`)
