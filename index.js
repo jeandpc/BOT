@@ -1372,15 +1372,15 @@ break
 					
                   default:		
                   if (budy.includes(`Chabelo`)) {
-                  reply(`ni idea loco, pero dicen que es un buen tipo`)
+                  reply(`*Mira te cuento algo para que tengas flaca si tú no te haces la paja por una semana un mes la testosterona que tienen los hombres se va acomulando poco a poco esa testosterona hace que para las mujeres le parezca más atractivo y tengas más oportunidad de que te hagan caso*`)
                   }
                  
 		  if (budy.includes(`bot`)) {
-                  reply(`no molestes marcianito de la risa`)
+                  reply(`Serrano resentido, por mas que pongan comunistas o terrucos en el poder, nunca saldran adelante ya que son indios conformistas que ni buscan estudiar `)
                   }
                  	
 		  if (budy.includes(`Sebastian`)) {
-                  reply(`tremendo gilaso, estan huevon que esta virtualmente lo hacen kachudo csmre ,estos dibujos son la cagada con cada ocurrencia que hacen cague de richard`)
+                  reply(`Flaca que te.quiere de verdad mano! Sabrá comprenderte! Y sumará a tu vida! No buscará una excusa para complicarte la vida y menos evitará que descuides tu trabajo o estudios! Todo lo contrario! Flaca que te quiere surgirá a tu lado y pensará a futuro! Si no es así mano! Es porque esa flaca no te complementa y si no comparte tu pensamiento! Van en direcciones contrarias! Si hubieran durado más tiempo tal vez te hubiera chocado más lo de la flaca! Fuerzas mano! Tienes buen futuro! Y ya llegará la flaca que realmente sea para ti! Sigue con tu trabajo y estudios! 👍🏻👍🏻`)
                   }
                  	
 		 if (budy.includes(`Elias`)) {
@@ -1435,10 +1435,9 @@ Y mi boca es un buzón... `)
 		if (budy.includes(`Pedro Soto`)) {
                   reply(`Terrible? 
  
-TERRIBLE ES TENER UN VIEJO BORRACHO , RETRASADO Y UNA VIEJA PERRA , SIN CEREBRO , FLOJA Y GORDA  SIN FUTURO , Pobre reno de Pedro soto 
+TERRIBLE ES TENER UN VIEJO BORRACHO , RETRASADO Y UNA VIEJA PERRA , SIN CEREBRO , FLOJA Y GORDA  SIN FUTURO , Pobre reno de Pedro  
 que se sentirá que ni virtualmente lo quieran, su madre lo abandonó su padre también y su hermana ya está cansada de mantenerlo 
-Si novia granosa de borracha pedía a Chabelo que sean novios y le dijieron que no
-Por eso regreso con el sin viejo
+su flaca gronosa virtual 
 `)
 			
                   }
