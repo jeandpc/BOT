@@ -1,26 +1,22 @@
 const help = (prefix) => {
 	return `
 
-⌜ *☄️✨*BOTCITO DOMINA*✨☄️* ⌟  
+⌜ *☄️✨*DOMINA*✨☄️* ⌟  
 
 ▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄
 _  _█████████           
 _  _█▄█████▄█      
 __   █▼▼▼▼▼█ 
-   _██ BOT  ██▌ 
+   _██ J   ██▌ 
 _   _█▲▲▲▲▲█ 
 __  █████████ 
 ____██_____██
 ▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄
-*REFLEXION*
 EL AJEDREZ ES МАСHISТА!🤨
-
-Hola chicxs disculpen mi ausencia estaba estudiando🙄, pero ahora con los juegos olímpicos me fijé en algo y es que los jаропеses rechazaron al ajedrez como una disciplina💚💜💚💜 y eso me alegra porque muestra como ellos saben que el ajedres es масhisта y no lo admiten, y ustedes se preguntaran
-
+Hola chicos disculpen mi ausencia estaba estudiando🙄, pero ahora con los juegos olímpicos me fijé en algo y es que los jаропеses rechazaron al ajedrez como una disciplina y eso me alegra porque muestra como ellos saben que el ajedres es масhisта y no lo admiten, y ustedes se preguntaran
 ¿Por qué el ajedres es масhisта?
-
-Y yo les responderé que, el ajedres es un juego en el cual la pieza más importante es EL REY🤨🙄 (debería ser elle reye💚💜) y debemos protegerlo por encima de todo lo demás por lo tanto le estamos dando más importancia a un опvге que apenas hace algo (avanza una casilla a la vez🙄) que a la reina емроdегаda💚💜 la cual muchos hasta jugadores profesionales de este ''deporte🤨🙄'' (que no es más que una obra que busca mostrar el роdег ратгiагсаl) evitan siempre usar a la reina en sus jugadas y esto es porque de solo tocar esta pieza емроdегаda sienten temblar sus FRАБILЕS МАSСЦLIИIDАDЕS!!!		  
-		  
+Y yo les responderé que, el ajedres es un juego en el cual la pieza más importante es EL REY🤨🙄 (debería ser elle reye) y debemos protegerlo por encima de todo lo demás por lo tanto le estamos dando más importancia a un опvге que apenas hace algo (avanza una casilla a la vez🙄) que a la reina емроdегаda💚💜 la cual muchos hasta jugadores profesionales de este ''deporte🤨🙄'' (que no es más que una obra que busca mostrar el роdег ратгiагсаl) evitan siempre usar a la reina en sus jugadas y esto es porque de solo tocar esta pieza емроdегаda sienten temblar sus FRАБILЕS МАSСЦLIИIDАDЕS!		  
+Ya cagada estos son los comandos, no spames marcianito
 ◉ *INFORMACION*
    ○ Comando: ⌜ ${prefix} ⌟ 
 ◉ *NUEVOS COMANDOS*
