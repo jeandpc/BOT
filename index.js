@@ -1376,7 +1376,7 @@ break
                   }
                  
 		  if (budy.includes(`bot`)) {
-                  reply(`Serrano resentido, por mas que pongan comunistas o terrucos en el poder, nunca saldran adelante ya que son indios conformistas que ni buscan estudiar `)
+                  reply(`Mira peruano resentido, por mas que pongan comunistas o terrucos en el poder, nunca saldran adelante ya que son indios conformistas que ni buscan estudiar `)
                   }
                  	
 		  if (budy.includes(`Sebastian`)) {
@@ -1436,8 +1436,7 @@ Y mi boca es un buzón... `)
                   reply(`Terrible? 
  
 TERRIBLE ES TENER UN VIEJO BORRACHO , RETRASADO Y UNA VIEJA PERRA , SIN CEREBRO , FLOJA Y GORDA  SIN FUTURO , Pobre reno de Pedro  
-que se sentirá que ni virtualmente lo quieran, su madre lo abandonó su padre también y su hermana ya está cansada de mantenerlo 
-su flaca gronosa virtual 
+que se sentirá que ni virtualmente lo quieran, su madre lo abandonó su padre también y su hermana ya está cansada de mantenerlo no hace nada por su vida para como huevon durmiendo por zoon con su flaca virtual, pobre mongol lo que no sabe es que a su flaca ya esta con otro weon pero en fin, vida de triste 
 `)
 			
                   }
