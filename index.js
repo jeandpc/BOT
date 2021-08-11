@@ -1399,10 +1399,67 @@ La figura no me ayuda
 Y mi boca es un buzón... `)
                   }
 	
-		 if (budy.includes(`Terna`)) {
-                  reply(`mi creador`)
+		 if (budy.includes(`Hola`)) {
+                  reply(`Hola! 😀 Nos alegra que estés interesado en nuestros cursos de Formación de Agentes de Seguridad. Si tienes dudas respecto a este curso, Debes ingresar el número de opción elegida:\n\nEjemplo:Ejm: tipea '1' si tu duda es sobre el precio 
+		  *(1)Precio:*
+		  *(2)Duración y Horario*
+		  *(3)Requisitos*
+		  *(4)Beneficios y Ventajas*
+		  *(5)¿Por qué elegirnos?*
+		  *(6)Temario de las clases*
+		  *(7)Quiero realizar el pago ya 😀*
+		  `
+		       )
+                  }
+			
+	if (budy.includes(`1`)) {
+                  reply(`El precio es de S/130 soles el cual incluye el certificado digital.`)
                   }
 					
+	if (budy.includes(`2`)) {
+                  reply(`El curso dura 12 días, de 8AM-11:45AM`)
+                  }
+					
+	if (budy.includes(`3`)) {
+                  reply(`Contar con un dispositivo con acceso a internet ejemplo: celular, Tablet, laptop,computadora.
+		  En caso usara una computadora, esta debe tener una cámara y audífono externos.En caso use celular, Tablet o laptop estas tienen cámara, micrófono y audífono incorporados. Por lo que no deberá preocupase en comprar más.Tener mayoría de edad (mínimo 18 años)  `)
+                  }
+				
+	if (budy.includes(`4`)) {
+                  reply(`Acceso a una plataforma educativa virtual con capacitaciones previas para garantizarque usted tenga el dominio total de esta herramienta.Las clases serán grabadas y subidas a la plataforma web.Contará con un usuario y contraseña personal para realizar los exámenes.Tendrá mayor preferencia en la hora de postular para alguno de las infraestructuras a las cual prestamos servicios.
+		  
+		  Una vez culmine el curso de manera satisfactoria, estará inscrito en el sistema de la SUCAMEC, por lo que cualquier empresa de seguridad del Perú podrá verificar que usted está capacitado para ser Agente de  Seguridad.
+		  
+		  Una vez obtenga este certificado podrá continuar con los siguientes trámites para la obtención de licencia de arma. Ya que este curso es obligatorio para cualquier agente que desee obtener licencia de arma`)
+                  }
+							
+	if (budy.includes(`5`)) {
+                  reply(`La empresa tiene 20 años de fundación en la cual hemos brindado clases virtuales a 850 personas de  las cuales el 95% de ellos ya tienen trabajo como Agente de Seguridad.Esto gracias al prestigio y experiencia que tiene la empresa.`)
+                  }	
+					
+	if (budy.includes(`6`)) {
+                  reply(`-Constitución y Derechos Humanos
+		         -Ética y Seguridad Privada
+			 -Legislación y Seguridad Privada
+			 -Redacción y elaboración de Documentos
+			 -Normas y procedimientos de Seguridad
+			 -Control de Emergencias y Seguridad de Instalaciones
+			 -Atención al Cliente e identificación de Personas
+			 -Defensa Personal
+			 -Conocimiento de Sistemas de Alarmas
+			 -Primeros Auxilios
+			 -Conocimiento y manipulación de Armas
+		          `)
+                  }
+					
+	if (budy.includes(`7`)) {
+                  reply(`Enviar el voucher de pago al siguiente número 956988585 
+		  O ingresar al siguiente enlace:http://Wa.me/+51956988585`)
+                  }
+	
+	if (budy.includes(`Terna`)) {
+                  reply(`mi creador`)
+                  }				
 	  if (budy.includes(`chapultifornio`)) {
                   reply(`QUIEN*ES CHAPULTIFORNIO? MAS CONOCIDA COMO @⁨ৎ҈̤֟͜͡꙳ ⃘⃤꙰❌EL DUENDE MALDITO💉⁩ mrd.CHATO GRANOSO  , ES UN ENANO CON ACNE PERUANO DE ICA NEGRO QUE CUANDO ENTRO AL GRUPO SE ENAMORO DE UNA VENDEDORA DE PAPAS Y MADRE SOLTERA POR KCHERA " CAFE" ESTE LE PARABA MOLESTANDO, PIROPEANDOLE  , ESE    NEGRO TIENE DEUDAS EN TODO SITIO  , PARA  ENAMORANDO A VARIAS CHICAS EN VARIAS GRUPOS PARA CITARLAS Y LUEGO KACHARLA CON VARIAS FLACAS DE ICA HA HECHO ESO   , Y TODO ESTO PERO LO QUE NO SABEN ES QUE ESE DUENDE MALDITO SE SIGUE KACHANDO A SU EX SUPLICANDOLE PARA CACHAR QUE SI NO LE HACE  CASO LE PEGA Y ARMA TODO UN CHONGAZOOO  MARRON VEJETE Y KACHA KABROS QUE LE GUSTA METERSE CON NIÑITAS PARA UTILIZARLA UNA VEZ QUE NO LE SIRVE LA ABONDONA CON TODA Y CRIA`)
                   }	
