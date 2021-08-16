@@ -1372,15 +1372,15 @@ break
 					
                   default:		
                   if (budy.includes(`Chabelo`)) {
-                  reply(`*Mira te cuento algo para que tengas flaca si tú no te haces la paja por una semana un mes la testosterona que tienen los hombres se va acomulando poco a poco esa testosterona hace que para las mujeres le parezca más atractivo y tengas más oportunidad de que te hagan caso*`)
+                  reply(` *Ya no es kchar por pantalla, ahora es kchar por sueños*`)
                   }
                  
 		  if (budy.includes(`bot`)) {
-                  reply(`regrese hijos de perraaaaaaaa `)
+                  reply(`pero what chucha fue loquito`)
                   }
                  	
 		  if (budy.includes(`Sebastian`)) {
-                  reply(` SI TU  EX Flaca *BEELOTA*  si te quiere de verdad mano! Sabrá comprenderte! Y sumará a tu vida! No buscará una excusa para complicarte la vida y menos evitará que descuides tu trabajo o estudios! Todo lo contrario! Flaca que te quiere surgirá a tu lado y pensará a futuro! Si no es así mano! Es porque esa flaca no te complementa y si no comparte tu pensamiento! Van en direcciones contrarias! Si hubieran durado más tiempo tal vez te hubiera chocado más lo de la flaca! Fuerzas mano! Tienes buen futuro! Y ya llegará la flaca que realmente sea para ti! Sigue con tu trabajo y estudios! 👍🏻👍🏻`)
+                  reply(` mano entiende esa  flaca no te complementa y si no comparte tu pensamiento! Van en direcciones contrarias! Si hubieran durado más tiempo tal vez te hubiera chocado más lo de la flaca! Fuerzas mano! Tienes buen futuro! Y ya llegará la flaca que realmente sea para ti! Sigue con tu trabajo y estudios! 👍🏻👍🏻`)
                   }
                  	
 		 if (budy.includes(`Elias`)) {
@@ -1442,18 +1442,12 @@ que se sentirá que ni virtualmente lo quieran, su madre lo abandonó su padre t
                   }
 
 		if (budy.includes(`Impostor`)) {
-                  reply(`@⁨𝑳𝒊𝒕𝒕𝒍𝒆 𝑯𝒂𝒓𝒖🌈⁩  buenas tardes, solo entre a tu grupo a decirte que pues dejes de vincularme con el impostor, mi novio se enteró que me paran jodiendo con el de que somos novios etc, yo no tengo nada que ver con el, ya no hablamos ni nada creo que el tiene su novia y no quisiera que pues tenga problemas, solo entre a tu grupo a decirte eso y espero que me entiendas, yo no quiero tener problemas con mi pareja pq en si yo si lo quiero :') y bueno gracias eso fue todo :')`)
+                  reply(`@⁨𝑳𝒊𝒕𝒕𝒍𝒆 𝑯𝒂𝒓𝒖🌈⁩  Asuuu mano! Fuerzas para sobrellevar ese asunto! Que fría pa decirte eso manito! Hasta a mí me dolió! Quien entiende a algunas flacas! Pero se ve que tú flaca es bien directa mano! O quizá es un pretexto para.termknar contigo! Es cosa de que hable bien mano! En caso  ella esté dispuesta a.salvar la.relación! `)
                   }
 
-		if (budy.includes(`Mongral`)) {
-                  reply(`Mongral un mocoso correlon q
- masha lo dejo 
-Karol lo dejo 
-Bellota ni caso le dió
-Bb lean menos
-Café ni q hablar
-Un día lo invitaron a  51963357602 para una pelea pero el muy cobarde jamás fue pq tenía miedo a q le rompa la cara a puñetes 
-Dime ese es tu ídolo?`)
+		if (budy.includes(`Bellota`)) {
+                  reply(`Jajajaja encerio su cara es asi? O esta anchada la imagen? :v porque la eh visto y no me cuadra :v csmr
+ `)
                   }
 
 		if (budy.includes(`Gary`)) {
@@ -1468,6 +1462,19 @@ Necesitas ayuda y quieres un virtual el te puede ayudar el admi mas pingon de te
 		if (budy.includes(`Chesi`)) {
                   reply(`no lo saco a ese dibujo pero dicen que es un buen tipo`)
                   }
+					
+					
+		if (budy.includes(`Armony`)) {
+                  reply(`Nunca tuve una pareja , será porque antes nunca tuve amistades gays y solo me juntaba con heteros , no me funcionaba enamorarme de gente que me rodeaba que no era gay como yo para tener algo`)
+                  }
+		if (budy.includes(`Berenice`)) {
+                  reply(`😜😜😜 ayy @Berenice pero te cacho a lo loco. 🙊🤭😋 A mí sí me cacharon con más amor , hasta quería que me eche un rato más luego de que terminamos y luego quería que nos bañamos juntos , yo le dije estoy apurado 🤭😘 así se le somete a un hombre para que te tenga más ganas , les gusta que se voten`)
+                  }	
+					
+					
+		if (budy.includes(`kael`)) {
+                  reply(`Yo queria ser un niño bueno pero nose puede 😡`)
+                  }			
        if (budy.startsWith(`La toca 7w7`)) {
         const none = fs.readFileSync('./anishan/anime5.mp3');
 		client.sendMessage(from, none, MessageType.audio, {quoted: mek, mimetype: 'audio/mp4', ptt:true})
