@@ -1,7 +1,7 @@
 const help = (prefix) => {
 	return `
 
-⌜ *☄️✨*DOMINA*✨☄️* ⌟  
+⌜ *☄️✨*🇵🇪𝐓𝐄𝐑𝐑𝐔𝐂𝐎𝐒 *✨☄️* ⌟  
 
 ▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄
 _  _█████████           
@@ -11,12 +11,18 @@ __   █▼▼▼▼▼█
 _   _█▲▲▲▲▲█ 
 __  █████████ 
 ____██_____██
+*TERRIBLE*
+Berenice 
+kael
+Armony
+Sebastian
+*NECESITAS VIRTUALES CHUCHAS*
+*◤S꙲꙲e꙲꙲ͥb꙲꙲𝚲͢s꙲꙲ͫ†ΐ𝚲͢ή↯᭄◢*
+*Gary DFC*
 ▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄
-EL AJEDREZ ES МАСHISТА!🤨
-Hola chicos disculpen mi ausencia estaba estudiando🙄, pero ahora con los juegos olímpicos me fijé en algo y es que los jаропеses rechazaron al ajedrez como una disciplina y eso me alegra porque muestra como ellos saben que el ajedres es масhisта y no lo admiten, y ustedes se preguntaran
-¿Por qué el ajedres es масhisта?
-Y yo les responderé que, el ajedres es un juego en el cual la pieza más importante es EL REY🤨🙄 (debería ser elle reye) y debemos protegerlo por encima de todo lo demás por lo tanto le estamos dando más importancia a un опvге que apenas hace algo (avanza una casilla a la vez🙄) que a la reina емроdегаda💚💜 la cual muchos hasta jugadores profesionales de este ''deporte🤨🙄'' (que no es más que una obra que busca mostrar el роdег ратгiагсаl) evitan siempre usar a la reina en sus jugadas y esto es porque de solo tocar esta pieza емроdегаda sienten temblar sus FRАБILЕS МАSСЦLIИIDАDЕS!		  
-Ya cagada estos son los comandos, no spames marcianito
+
+¿Por qué? Porque tu poca inteligencia no te da para más y eso es demasiado patético, deberías hacer algo mejor de tu vida, ni siquiera sabes escribir bien, tienes unas faltas de ortografía pésimas, no eres más que semen desperdiciado.
+
 ◉ *INFORMACION*
    ○ Comando: ⌜ ${prefix} ⌟ 
 ◉ *NUEVOS COMANDOS*
@@ -35,7 +41,6 @@ juegos de jodas
 Registrate con el comando ${prefix}terna y tu nombre
 
 ◉ *SE BUSCA*
-
 Gary
 Pedro Farfan
 Chabelo
