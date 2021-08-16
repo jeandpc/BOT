@@ -1376,7 +1376,7 @@ break
                   }
                  
 		  if (budy.includes(`bot`)) {
-                  reply(`pero what chucha fue loquito`)
+                  reply(`*Tu existencia en este mundo realmente no aporta nada, eres un completo inútil que no sabe que hacer de su vida, lo peor que hablas de argumentos y tu ni siquiera los tienes, solo escribes estupideces para ofender sin sentido, enserio me das pena, en fin*`)
                   }
                  	
 		  if (budy.includes(`Sebastian`)) {
