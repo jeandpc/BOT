@@ -999,19 +999,52 @@ break
 		//SERVICIO DE MUSICA Y VIDEO 			
 					
 				
-	        case 'play':   
-	        if (args.length < 1) return reply('Donde esta el nombre de la canción?\n\nEjemplo: *play2 Industry Baby Lil Nas X')
-		if (!isUser) return reply(mess.only.daftarB)
-                reply(mess.only.musica)
-                play = body.slice(5)
-                anu = await fetchJson(`https://api.zeks.xyz/api/ytplaymp3?q=${play}&apikey=hamilton43`)
-                if (anu.error) return reply(anu.error)
-                infomp3 = `*⌈ Canción Encontrada ✅ ⌉*\n◉ *Título:* ${anu.result.title}\n◉ *Fuente:* ${anu.result.source}\n◉ *Tamaño:* ${anu.result.size}\n\n*ESPERE ENVIANDO SU ARCHIVO MP3 ⚠*`
-                buffer = await getBuffer(anu.result.thumbnail)
-                lagu = await getBuffer(anu.result.url_audio)
-                client.sendMessage(from, buffer, image, {quoted: mek, caption: infomp3})
-                client.sendMessage(from, lagu, audio, {mimetype: 'audio/mp4', filename: `${anu.title}.mp3`, quoted: mek})
-                break
+	      case prefix+ 'play':
+			if (args.length === 0) return reply(`Ejemplo: *${prefix}play* _El título de la musica para buscar_`)
+			reply(mess.musica)
+            var srch = args.join('')
+    		aramas = await yts(srch);
+    		aramat = aramas.all 
+   			var mulaikah = aramat[0].url							
+                  try {
+                    yta(mulaikah)
+                    .then((res) => {
+                        const { dl_link, thumb, title, filesizeF, filesize } = res
+                        axios.get(`https://tinyurl.com/api-create.php?url=${dl_link}`)
+                        .then(async (a) => {
+                        if (Number(filesize) >= 100000) return sendMediaURL(from, thumb, `*DESCARGADOR DE MUSICA BY FELIXCRACK*\n\n*🤓Titulo*: ${title}\n*⏭️Extensión*: MP3\n*⚖️Tamaño*: ${filesizeF}\n*📎Link* : ${a.data}\n\n_ESPERE ENVIANDO ARCHIVO, NO SPAMES LA CONCHA DE TU MADRE_`)
+		                        const captions = `*DESCARGADOR DE MUSICA BY FELIXCRACK*\n\n*🤓Titulo*: ${title}\n*⏭️Extensión*: MP3\n*⚖️Tamaño*: ${filesizeF}\n*📎Link*: ${a.data}\n\n_ESPERE ENVIANDO ARCHIVO, NO SPAMES LA CONCHA DE TU MADRE_`
+                        sendMediaURL(from, thumb, captions)
+                        await sendMediaURL(from, dl_link).catch(() => reply('error'))
+                        })                
+                        })
+                        } catch (err) {
+                        reply(mess.error.api)
+                        }
+                   break  
+		case prefix+ 'video':
+            if (args.length === 0) return reply(`Ejemplo: *${prefix}video* _El título del video para buscar_`)
+            var srch = args.join('')
+            aramas = await yts(srch);
+            aramat = aramas.all 
+            var mulaikah = aramat[0].url                            
+                  try {
+                    ytv(mulaikah)
+                    .then((res) => {
+                        const { dl_link, thumb, title, filesizeF, filesize } = res
+                        axios.get(`https://tinyurl.com/api-create.php?url=${dl_link}`)
+                        .then(async (a) => {
+                        if (Number(filesize) >= 100000) return sendMediaURL(from, thumb, `*PLAY VIDEO*\n\n*🤓Titulo*: ${title}\n*⏭️Extensión*:MP3\n*File⚖️Tamaño*:${filesizeF}\n*Link* : ${a.data}\n\n_ESPERE ENVIANDO ARCHIVO, NO SPAMES LA CONCHA DE TU MADRE_`)
+		                        const captions = `*PLAY VIDEO*\n\n*🤓Titulo*: ${title}\n*⏭️Extensión*:MP4\n*⚖️Tamaño*:${filesizeF}\n*Link* : ${a.data}\n\n_ESPERE ENVIANDO ARCHIVO, NO SPAMES LA CONCHA DE TU MADRE_`
+                        sendMediaURL(from, thumb, captions)
+                        await sendMediaURL(from, dl_link).catch(() => reply('error'))
+                        })                
+                        })
+                        } catch (err) {
+                        reply(mess.error.api)
+                        }
+                   break
+					
 		
 		case 'play2':   
 	        if (args.length < 1) return reply('Donde esta el nombre de la canción?\n\nEjemplo: *play2 Industry Baby Lil Nas X')
@@ -1065,6 +1098,8 @@ break
 			        buffer = await getBuffer(ppUrl)
 		            client.sendMessage(from, buffer, image, {quoted: mek, caption: `*NOME* : ${groupName}\n*MEMBRO* : ${groupMembers.length}\n*ADMIN* : ${groupAdmins.length}\n*DESCRIÇÃO* : ${groupDesc}`})
                     break
+					case 'marcianito':
+					case 'soy pepa':
 					case 'feliz cumpleaños':
 					case 'marcianito':
 					case 'patrick':
