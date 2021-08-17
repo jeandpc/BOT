@@ -1126,15 +1126,15 @@ break
 					buffer = await getBuffer(`https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRcnhmpQD1C1Dp7I2_kpi13gAsuoudOPPraog&usqp=CAU`)
 					buffer = await getBuffer(`https://i.ibb.co/QXh2qq7/9193b220-130c-4821-a4a1-c61955956ea0-2.jpg`)
 					buffer = await getBuffer(`https://i.ibb.co/7GSRsY6/1234.png`)
-					client.sendMessage(from, buffer, image, {quoted: mek, caption: '¿Hola que tal?soy el marcianito de las poesias.Hoy es noche de sexo y voy a cumplir tus fantasias'})
+					client.sendMessage(from, buffer, image, {quoted: mek, caption: 'Hoy es noche de sexo y voy a cumplir tus fantasias'})
 					buffer = await getBuffer(`https://i.ibb.co/7yP2Rks/a9a32204-cf52-4b80-8061-c9e9be67791f.jpg`)
 					client.sendMessage(from, buffer, image, {quoted: mek, caption: 'Les presento a lizeth una kine, veterana con un récord de 9000 pingas chupadas en toda su carrera de puta, tiene 2 medallas a las ramera de sjl y tiene 3 trofeos por aguantar 4 pingas en el ano debajo del agua'})
 					buffer = await getBuffer(`https://i.ibb.co/hXp7tkY/96c309bf-9cbe-4e92-8c70-a8a7ed22966b.jpg`)
 					client.sendMessage(from, buffer, image, {quoted: mek, caption: 'Me llamo *lizeth Saldaña Napan* este es mi facebook https://www.facebook.com/lizethdelpilar.saldananapan hablame me cononocen como  debora la deboradora de penes soy una ardiente scort de medidas de infarto colita grande tetas firmes y jugosas tengo mi departamento privado en  vivo SJL con mi hijo pero el ni se da cuenta ,visitame bebe'})
 					buffer = await getBuffer(`https://i.ibb.co/cvDL8T5/d5fa894f-8392-4411-8a11-abe54cd3cc83.jpg`)
 					client.sendMessage(from, buffer, image, {quoted: mek, caption: '*TERRIBLE*\n\lo que paso con la infancia de l marcianito, ahora entiendo el abandono de tu viejo'})
-					buffer = await getBuffer(`https://i.ibb.co/8P1ksNV/9005468e-e57f-4c92-8c91-4d054294ee07.jpg`
-				       client.sendMessage(from, buffer, image, {quoted: mek, caption: '*BUSCANDO A PAPA LUJAN😭😭 * '})
+					buffer = await getBuffer(`https://i.ibb.co/8P1ksNV/9005468e-e57f-4c92-8c91-4d054294ee07.jpg`)
+				       client.sendMessage(from, buffer, image, {quoted: mek, caption: '*PAPA LUJAN DONDE ESTAS 😭😭* '})
 					buffer = await getBuffer(`https://i.ibb.co/vYhFCzM/123123.png`)
 					client.sendMessage(from, buffer, image, {quoted: mek, caption: '*PAPA LUJAN DONDE ESTAS 😭😭 HOY ES MI CUMPLEAÑOS Y NO ESTAS PRESENTE* '})
 					break
