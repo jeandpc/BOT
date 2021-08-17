@@ -1127,14 +1127,13 @@ break
 					buffer = await getBuffer(`https://i.ibb.co/QXh2qq7/9193b220-130c-4821-a4a1-c61955956ea0-2.jpg`)
 					buffer = await getBuffer(`https://i.ibb.co/7GSRsY6/1234.png`)
 					client.sendMessage(from, buffer, image, {quoted: mek, caption: '¿Hola que tal?soy el marcianito de las poesias.Hoy es noche de sexo y voy a cumplir tus fantasias'})
-					buffer = await getBuffer(`https://i.ibb.co/SXF9K69/hace-8-a-os.jpg`)
-					client.sendMessage(from, buffer, image, {quoted: mek, caption: 'SOY UN JUGADOR HONORABLE DE LEAGUE OF LEGEND'})
-					buffer = await getBuffer(`https://i.ibb.co/S0ZRsdq/1915148-211596895091-2083844-n.png`)
+					buffer = await getBuffer(`https://i.ibb.co/7yP2Rks/a9a32204-cf52-4b80-8061-c9e9be67791f.jpg`)
+					client.sendMessage(from, buffer, image, {quoted: mek, caption: 'Les presento a lizeth una kine, veterana con un récord de 9000 pingas chupadas en toda su carrera de puta, tiene 2 medallas a las ramera de sjl y tiene 3 trofeos por aguantar 4 pingas en el ano debajo del agua'})
+					buffer = await getBuffer(`https://i.ibb.co/hXp7tkY/96c309bf-9cbe-4e92-8c70-a8a7ed22966b.jpg`)
 					client.sendMessage(from, buffer, image, {quoted: mek, caption: 'Me llamo *lizeth Saldaña Napan* este es mi facebook https://www.facebook.com/lizethdelpilar.saldananapan hablame me cononocen como  debora la deboradora de penes soy una ardiente scort de medidas de infarto colita grande tetas firmes y jugosas tengo mi departamento privado en  vivo SJL con mi hijo pero el ni se da cuenta ,visitame bebe'})
-					buffer = await getBuffer(`https://i.ibb.co/xDFV3Sq/HOY6.jpg`)
-					client.sendMessage(from, buffer, image, {quoted: mek, caption: '*TERRIBLE*\n\LO QUE SUCEDIO EN EL CUMPLE DEL MARCIANITO 🤣😂😅 BAJEN BAJEN, SU VIEJA ESTA APUNTO DE SOPLARME TODA LA LA VELA 🤤🤤🥵🥵'})
-					buffer = await getBuffer(`https://i.ibb.co/q18NbQW/FIESTA.jpg`)
-					client.sendMessage(from, buffer, image, {quoted: mek, caption: '*RETURBIO*\n\lo que sucedio en el cumple del marcianito'})
+					buffer = await getBuffer(`https://i.ibb.co/cvDL8T5/d5fa894f-8392-4411-8a11-abe54cd3cc83.jpg`)
+					client.sendMessage(from, buffer, image, {quoted: mek, caption: '*TERRIBLE*\n\lo que paso con la infancia de l marcianito, ahora entiendo el abandono de tu viejo'})
+					buffer = await getBuffer(`https://i.ibb.co/8P1ksNV/9005468e-e57f-4c92-8c91-4d054294ee07.jpg`
 					buffer = await getBuffer(`https://i.ibb.co/vYhFCzM/123123.png`)
 					client.sendMessage(from, buffer, image, {quoted: mek, caption: '*PAPA LUJAN DONDE ESTAS 😭😭 HOY ES MI CUMPLEAÑOS Y NO ESTAS PRESENTE* '})
 					break
@@ -1465,14 +1464,14 @@ Y mi boca es un buzón... `)
                   reply(` dibujo `)
                   }		
 					
-		 if (budy.includes(`mienbro`)) {
+		 if (budy.includes(`Dominio`)) {
                   reply(`Mira mi estimado  , ya se que te preocupas por el bienestar del grupo, pero esas actitudes muestra que eres un ser con un intelecto por debajo del común general, por lo cual me veo en la penosa necesidad de darte un avance especializado en el analisis de creación, para que así puedas sobresalir en el campo de la materia de las cuentas de facebook fake, o más conocidas como "dibujitos", en pocas palabras, me llegas al pincho, deja de estar pidiendo el pack de Pierina y el de Sheyla... Añado tambien que dejen de mandarme el pack del "Tío Vilchez" y Fatima Segovia "La Chuecona", como te recalqué por privado, no tengo el video porno de Pierina, ni el de Sheyla, así que es en vano que me mandes el de Vilches, ya que no se podrá hacer el intercambio de estos videos íntimos. Bueno me despido, toda esta wbada me llega al pincho enserio.
 
 
 
 
      Atte: ༒🇦🇱⃢⃟⃢⍣໓໐๓iຖi໐  ⃢⃟⃢⍣⚔️༒
-     Atte: Terna DPC ⃢⃟⃢⍣⚔️༒
+
  
             #TuKcheroBB `)
                   }
@@ -1495,7 +1494,7 @@ que se sentirá que ni virtualmente lo quieran, su madre lo abandonó su padre t
                   }
 
 		if (budy.includes(`Bellota`)) {
-                  reply(`Jajajaja encerio su cara es asi? O esta anchada la imagen? :v porque la eh visto y no me cuadra :v csmr
+                  reply(`Jajajaja encerio su cara es asi ? O esta anchada la imagen? :v porque la eh visto y no me cuadra mucho filtro
  `)
                   }
 
