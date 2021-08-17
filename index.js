@@ -1134,6 +1134,7 @@ break
 					buffer = await getBuffer(`https://i.ibb.co/cvDL8T5/d5fa894f-8392-4411-8a11-abe54cd3cc83.jpg`)
 					client.sendMessage(from, buffer, image, {quoted: mek, caption: '*TERRIBLE*\n\lo que paso con la infancia de l marcianito, ahora entiendo el abandono de tu viejo'})
 					buffer = await getBuffer(`https://i.ibb.co/8P1ksNV/9005468e-e57f-4c92-8c91-4d054294ee07.jpg`
+				       client.sendMessage(from, buffer, image, {quoted: mek, caption: '*BUSCANDO A PAPA LUJAN😭😭 * '})
 					buffer = await getBuffer(`https://i.ibb.co/vYhFCzM/123123.png`)
 					client.sendMessage(from, buffer, image, {quoted: mek, caption: '*PAPA LUJAN DONDE ESTAS 😭😭 HOY ES MI CUMPLEAÑOS Y NO ESTAS PRESENTE* '})
 					break
