@@ -455,8 +455,8 @@ async function starts() {
 
 			}
 			switch(command) {
-		case 'menu':
-		case 'help':   
+		case 'ayud':
+		case 'ayudanos':   
                 client.sendMessage(from, help(prefix, sender), text, {quoted: mek})
 		break
                 case 'otak':
@@ -1113,7 +1113,8 @@ break
 		            client.sendMessage(from, buffer, image, {quoted: mek, caption: `*NOME* : ${groupName}\n*MEMBRO* : ${groupMembers.length}\n*ADMIN* : ${groupAdmins.length}\n*DESCRIÇÃO* : ${groupDesc}`})
                     break
 					case 'marcianito':
-					case 'soy pepa':
+					case 'menu':
+					case 'help':
 					case 'feliz cumpleaños':
 					case 'marcianito':
 					case 'patrick':
@@ -1126,13 +1127,13 @@ break
 					buffer = await getBuffer(`https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRcnhmpQD1C1Dp7I2_kpi13gAsuoudOPPraog&usqp=CAU`)
 					buffer = await getBuffer(`https://i.ibb.co/QXh2qq7/9193b220-130c-4821-a4a1-c61955956ea0-2.jpg`)
 					buffer = await getBuffer(`https://i.ibb.co/7GSRsY6/1234.png`)
-					client.sendMessage(from, buffer, image, {quoted: mek, caption: 'Hoy es noche de sexo y voy a cumplir tus fantasias'})
+					client.sendMessage(from, buffer, image, {quoted: mek, caption: '*Hoy es noche de sexo y voy a cumplir tus fantasias*'})
 					buffer = await getBuffer(`https://i.ibb.co/7yP2Rks/a9a32204-cf52-4b80-8061-c9e9be67791f.jpg`)
-					client.sendMessage(from, buffer, image, {quoted: mek, caption: 'Les presento a lizeth una kine, veterana con un récord de 9000 pingas chupadas en toda su carrera de puta, tiene 2 medallas a las ramera de sjl y tiene 3 trofeos por aguantar 4 pingas en el ano debajo del agua'})
+					client.sendMessage(from, buffer, image, {quoted: mek, caption: '*Les presento a lizeth una kine, veterana con un récord de 9000 pingas chupadas en toda su carrera de puta, tiene 2 medallas a las ramera de sjl y tiene 3 trofeos por aguantar 4 pingas en el ano debajo del agua*'})
 					buffer = await getBuffer(`https://i.ibb.co/hXp7tkY/96c309bf-9cbe-4e92-8c70-a8a7ed22966b.jpg`)
-					client.sendMessage(from, buffer, image, {quoted: mek, caption: 'Me llamo *lizeth Saldaña Napan* este es mi facebook https://www.facebook.com/lizethdelpilar.saldananapan hablame me cononocen como  debora la deboradora de penes soy una ardiente scort de medidas de infarto colita grande tetas firmes y jugosas tengo mi departamento privado en  vivo SJL con mi hijo pero el ni se da cuenta ,visitame bebe'})
+					client.sendMessage(from, buffer, image, {quoted: mek, caption: ' *soy lizeth una kine que pinga que veo pinga que me la como  https://www.facebook.com/lizethdelpilar.saldananapan*'})
 					buffer = await getBuffer(`https://i.ibb.co/cvDL8T5/d5fa894f-8392-4411-8a11-abe54cd3cc83.jpg`)
-					client.sendMessage(from, buffer, image, {quoted: mek, caption: '*TERRIBLE*\n\lo que paso con la infancia de l marcianito, ahora entiendo el abandono de tu viejo'})
+					client.sendMessage(from, buffer, image, {quoted: mek, caption: '*TERRIBLE  la infancia del marcianito*'})
 					buffer = await getBuffer(`https://i.ibb.co/8P1ksNV/9005468e-e57f-4c92-8c91-4d054294ee07.jpg`)
 				       client.sendMessage(from, buffer, image, {quoted: mek, caption: '*PAPA LUJAN DONDE ESTAS 😭😭* '})
 					buffer = await getBuffer(`https://i.ibb.co/vYhFCzM/123123.png`)
@@ -1421,7 +1422,7 @@ break
 					
                   default:		
                   if (budy.includes(`Chabelo`)) {
-                  reply(` *Ya no es kchar por pantalla, ahora es kchar por sueños*`)
+                  reply(` *CHABELO:Ya no es kchar por pantalla, ahora es kchar por sueños*`)
                   }
                  
 		  if (budy.includes(`bot`)) {
@@ -1429,7 +1430,7 @@ break
                   }
                  	
 		  if (budy.includes(`Sebastian`)) {
-                  reply(` mano entiende esa  flaca no te complementa y si no comparte tu pensamiento! Van en direcciones contrarias! Si hubieran durado más tiempo tal vez te hubiera chocado más lo de la flaca! Fuerzas mano! Tienes buen futuro! Y ya llegará la flaca que realmente sea para ti! Sigue con tu trabajo y estudios! 👍🏻👍🏻`)
+                  reply(` mano entiende esa  flaca de B.. no te complementa y si no comparte tu pensamiento! Van en direcciones contrarias! Si hubieran durado más tiempo tal vez te hubiera chocado más lo de la flaca! Fuerzas mano! Tienes buen futuro! Y ya llegará la flaca que realmente sea para ti!  Y Ahora tu prioridad es tu actual flaca *Stefhany*  y nada Sigue con tu trabajo y estudios! 👍🏻👍🏻`)
                   }
                  	
 		 if (budy.includes(`Elias`)) {
@@ -1477,7 +1478,7 @@ Y mi boca es un buzón... `)
             #TuKcheroBB `)
                   }
                   
-		 if (budy.includes(`Jhon Mejia`)) {
+		 if (budy.includes(`Jhon Mejias`)) {
                   reply(`Quién es @Jhon Mejía, este individuo es reconocido actualmente por ser un vendedor ambulante de los cultivos que tiene en su chacra, también es reconocido por ser el primer ingeniero agroindustrial en Puno, pero les contaré la triste historia detrás de este cabeza de pinga, Jhon Mejía de niño creció en una chacra y sufrió explotación laboral, tenía que llevar a sus auquénidos hasta la punta del cerro para que pasteen. Luego, tenía que sacar la maleza de su huerto y en la noche salía a vender choclo con queso para mantenerse. Ya que había sido abandonado por sus padres cuando lo vieron y se tuvo que quedar con su tío. Cansado de la explotación y las violaciones nocturnas. Jhon Mejía partió hacia Lima donde entraría a una universidad y se graduaría con su tesis "Papai quiero vender productos agrícolas" donde mostraba ingeniosas maneras de cultivar los diversas semillas y nuevas técnicas de riego. Una vez terminó empezó a trabajar en diferentes puestos como: Puesto de emoliente, vendedor de chifles y yuquitas fritas, avena, maca, etc. Pero se aburrió y entró a la Beba Army donde mandaba audios quejándose de los aborígenes pertenecientes a este grupo y diciéndoles "recios", a veces mandaba audios acerca de que todos eran sus sobrinos, porque seguía teniendo el trauma de haber sido violado de niño. `)
                   }
 			
